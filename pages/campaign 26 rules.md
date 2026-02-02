@@ -1,7 +1,7 @@
 ---
 layout: page
-title: x
-permalink: /x/
+title: other
+permalink: /other other/
 ---
 
 Peuple
