@@ -129,7 +129,8 @@ Broken items you carried home can be repaired: it costs as much as one price cat
 ## Items
 <details markdown="1">
 <summary><b>List</b></summary>
-Basic
+
+#### Basic: 1 silver
 
 
 |Item|	Load|
@@ -150,7 +151,7 @@ Basic
 |Cooking pot|	1|
 
 
-Common
+#### Common: 5 silver
 
 
 |Item|	Load|
@@ -170,7 +171,7 @@ Common
 |Sheep / pig	||
 
 
-Precious
+#### Precious: 20 silver
 
 
 |Item	|Load|
@@ -195,7 +196,7 @@ Weapons
 |Unarmed ↔| | | -1 chance to hit. Enemies have +1 ATK against you. |
 | Improvised| | | -1 chance to hit. May be ↔ or ‡|
 |Dagger	↔|5	|1	| Instant draw as long as it is not packed in Dead Weight. 
-|Spear	|5	|2	| Can attack from one rank behind an ally but max 1 attack per round. Grants simultaneous attack resolution against a frontal charge. Can be used with one or two hands, gain +1 ATK with two hands. |
+|Spear	|5	|2	| Grants simultaneous attack resolution against a frontal charge. Can attack from one rank behind an ally but only with 1 ATK per round. |
 |Halberd ‡	|10	|2	| +1 ATK. +1 die to start or contest a grapple. |
 |Mace	|5 |1	| Deal +1 damage on a crit. |
 |Greatmace ‡	|10	|2	| Ignore target armor, base chance to hit is 3-in-6 before other modifiers. |

@@ -24,6 +24,7 @@ Each phase lists the possible actions within it.
     - Start spellcasting
 * 2  Melee Phase
     - Melee attacks
+    - Grappling
 * 3  Ritual Phase
     - Cast slow spells
 * 4  End of round
@@ -38,7 +39,6 @@ You cannot trade a phase-specific action for an action specific to another phase
 However, you can do a miscellaneous action instead of an Opening or Melee action.
 #### Miscellaneous actions
 * Ready a worn item, take something, use a readied item (e.g. potion)
-* ~~Protect an adjacent ally: any attacks they suffer this round are redirected to you~~
 * First aid
 * Other similar actions.
 
@@ -60,13 +60,12 @@ If you aren’t used to metric, you may use:
 1 space = 5 feet in the game world.  
 With a map and ruler, 1 space = 1’’.  
 #### Speed
-Your speed is equal to your Capture save. It is the number of spaces you can cover in one round with a move action.  
-You swim and climb at half speed. Rough terrain also halve your speed. If your are Slow, halve your base speed. Minimum speed is 1.  
-#### Moving
-You can move up to your speed. You may pass through allies if there is enough space, but not enemies.  
+Human speed is 6 minus Dead Weight.  
+You can move up to your speed in one action. You may pass through allies if there is enough space, but not enemies.  
 If you start the Opening phase outside of melee range, you may move up to twice your speed.  You may try to evade the combat (see Encounters, Chase).   
 If you are in melee range, you can only move closer to the enemy unless you disengage and retreat.  
 To disengage and retreat from melee, you have to forgo all other actions this round and can move up to your speed away from the melee.   
+You swim and climb at half speed. Rough terrain also halve your speed. If your are Slow, halve your base speed. Minimum speed is 1.  
 
 ## Attacks
 
@@ -88,7 +87,7 @@ Attacks are simultaneous unless one side:
 In this case, the side with advantage has First Strike: your attacks are resolved first in the melee phase, and enemies you kill are eliminated immediately, before the end of the phase (they lose their action and can’t strike back).
 
 You can forgo all your attacks in the melee phase to:
-* Gain +1 armor this round
+* Gain +1 armor this round, but deplete your weapon or shield
 * Rally troops: +2 chance to succeed morale check for hirelings, max once per round and only if you rally from the heat of battle.
 
 #### Modifiers
@@ -96,7 +95,7 @@ You can forgo all your attacks in the melee phase to:
 * **Flanking**: first strike, +1 chance to hit
 * **Rear attack**: first strike, +1 ATK
 * **Death Blow**: you can attack a prone enemy only if there is no standing enemy within your reach. Your attacks hit automatically.
-* **Prone**: you are vulnerable to death blows. You can attack from the ground, but only up to 1 ATK and you have -1 chance to hit. You cannot get back up the same round you got prone. Adjacent opponents may try to prevent you from getting up if they have priority. Getting back up uses 2 of your movement. If enemies control the space where you need to get up, you need to use grappling to push them ?
+* **Prone**: you are vulnerable to death blows. You can attack from the ground, but only up to 1 ATK and you have -1 chance to hit. You can attempt a grapple from the ground. You cannot get back up the same round you got prone. Getting back up uses 2 of your movement. If enemies control the space where you need to get up, you can't get up (you can try to crawl elsewhere, grapple them, or kill them even with disadvantage). 
 * **Improvised weapon**: -1 chance to hit.
 * **Disarmed**: -1 chance to hit. Others have +1 ATK against you.
 * **Advantage** (e.g. high ground): +1 chance to hit.
@@ -115,42 +114,37 @@ Throw
 * You cannot chain ranged and melee attacks unless you have a throwing weapon in one hand and a melee weapon in the other.  
 * If you have a throwing weapon, you can throw it while charging (handaxe, javelin).   
 
-#### Target with shield  
-Against ranged attacks, a shield is worth 2 armor instead of 1. 
 #### Target engaged in melee  
 The closest ally is hit instead if you get a 6, they take 1 damage.   
 
 ### Criticals
-Crits apply both to PCs and NPCs. Critical hits do not affect creatures with Supernatural HP.
+Crits apply both to PCs and NPCs. Critical hits do not affect creatures with Supernatural HP.  
 A result of 1 on an attack die is a Critical. It deals 1 damage and a Wound.  
+When you land a crit on an enemy with more Might than you have levels, deplete your weapon.
+When you suffer a crit, deplete your armor.  
 
 ### Attacking to subdue
 Declare before attacks. -1 chance to hit. If you reduce the target to exactly 0 HP (no excessive damage), you subdue them. Otherwise they die as usual.
 
-### Grappling / Movement ?
-You can attempt a gambit instead of any other action, but only once per round.  
-This is how you resolve combat maneuvers such as disarming, tripping, pushing, grappling, subduing an enemy, etc.  
-You describe the effect you wish to achieve, and the Referee gives you the odds of success on 1d6, taking into account the difference in size, level, capability and circumstances. Typically 2-in-6 if inferior, 3-in-6 if equal and 4-in-6 if superior.   
-The risks involved in case of failure are proportional to the desired effect unless you can secure an advantage before.  
-Several characters can join forces for a single gambit. Enemies can also attempt gambits.  
+### Grappling
+Instead of attacking directly, you can attempt a grappling. Grapplers roll as many d6 as their number of attacks against one another, with the highest total controlling the grapple.
 
-_Based on Meatheads:_
-Grapplers roll as many d6 as their number of attacks against one another, with the highest total controlling the grapple.
-
-If winning a grapple, record the result. Controlling the grapple means you can pin them, throw them, etc. Grappled foes break out by attempting to roll higher than the result that initially beat them. Each round grappled foes must check Morale. Additionally, you may use your full round to tighten the grip and deal 1 damage, +1 per previous round doing this. Or you can attack them while they can only try to defend themselves. 
+If winning a grapple, choose one:
+* Throw or dismount your opponent, they are prone.
+* Disarm the target of a weapon, shield, or other held item.
+* Pin your foe and stay in grapple. Record the result of your win. Grappled foes break out by attempting to roll higher than the result that initially beat them. Each round grappled foes must check Morale. Additionally, you may use your full round to tighten the grip and deal 1 damage, +1 per previous round doing this. As long as you are winning the grapple, you can attack your target in the melee phase (not the first round, as the grapple attempt used your melee action), and they can't; if you are not on the ground and have not used your movement, you can also move at half speed and move them with you. If you are losing a grapple, you can't do much else than trying to reverse it. Note: for action resolution, whatever the priority, the current winner of the grapple always act first between the two _e.g. the second round of the grapple, the winner can attack before the victim can attempt to escape_.
 
 If you fail to grapple your opponent, you must choose:
-* The attacks of the foe allocated to you hit automatically;
-* Be restrained, they gain control of the grapple;
-* Be thrown to the ground and receive a temporary Wound.
-
-Daggers can be used to attack during grapple.
+* They win and choose one option from above;
+* Suffer 1 damage, 2 if they use a two-handed weapon;
+* You are thrown, prone, and a receive a temporary Wound that you cannot cancel by sacking a helmet or gambeson.
 
 When you charge, you can give up your First Strike to attempt a grapple instead (it doesn't work against spears). Otherwise moving eats your action en prevents a grapple. 
 
-To fighters not in the grapple, you are both treated as prone and can suffer deathblows. ?
+To fighters not in the grapple, you are both treated as prone (even standing) and can suffer deathblows if you have no allies within range to protect you (see Prone). 
 
 Several people can join force in a grapple against the same target, add up together all their d6 (as many as their attacks). 
+
 
 ### Vanquish
 An NPC who reaches 0 HP is slain at the end of the current phase. They can still act in this phase (simultaneous action).   
@@ -203,19 +197,19 @@ You only have 1 action per round, in the Opening phase. Basically you can only c
 ## Wounds
 Wounds caused by critical hits are temporary and last until a week of full rest. 
 
-If you must roll a Wound caused by saving against Death at 0 HP: roll 1d20. On 1-10, it's a temporary wound. On 11-20, it's a permanent wound (substract 10 to know which one on the Wound table). 
+Wounds suffered by damage to Flesh are permanent (you can heal the wound and free inventory, but the penalty of the Wound remains).
 
 Whatever the wound type, it fills one inventory slot until a week of full rest.
 
-If you would get twice the same wound, instead you lose some non-essential bits of yourself (an ear, a finger, a toe, the tip of the nose, teeth, bit of lips, big scar on the face or the skull where hair won't regrow, etc).
+If you would get twice the same temporary Wound, take the next result.
 
-If an enemy should suffer a Wound not suitable for an NPC (e.g. -1 to tests of characteristic): characters have +1 chance to hit an enemy for each such Wound they have. 
+If you would get twice the same permanent Wound, instead you lose some non-essential bits of yourself (an ear, a finger, a toe, the tip of the nose, teeth, bit of lips, big scar on the face or the skull where hair won't regrow, etc).
 
-For each permanent wound you have, you can attract an additional retainer. 
+For each permanent wound you have, after they healed from your inventory, add 1 permanently to the total of your Flesh. 
 
 | 1d10 | Wound |
 |-----|-------|
-| 1 | Shoulder: -1 Flesh|
+| 1 | Shoulder: your crits don't inflict a Wound|
 | 2| Arm: -1d to grapple|
 |3| Knee: -2 movement spaces (also apply as penalty in Capture for chases)|
 |4| Leg: -1 chance to succeed tests of Agility|
@@ -313,7 +307,7 @@ Foot soldiers under cavalry charge must test Morale or break formation, in which
 
 An Unit of foot soldiers who succeed with a result of 3 or less can defend with braced spears, in wich case they gain +1 attack against the charge.
 #### Cover
-Fortifications and other defensive advantages may offer +1 Armor or even more. 
+Fortifications and other defensive advantages may offer +1 Armor or even more, especially against ranged attacks. 
 #### Maneuver
 Check morale to execute a maneuver. Complex movement of Units count as maneuvers.
 * Shieldwall (maneuver): unit moves at half-speed, but is immune to most missiles. 
