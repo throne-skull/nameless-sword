@@ -68,7 +68,7 @@ You swim and climb at half speed. Rough terrain also halve your speed. If your a
 ### Melee attacks
 
 1. You must allocate your attacks as equally as possible between targets within reach. Then proceed in order for each target:
-2. The chance to hit per attack die is 5 minus target armor. Apply any other modifiers.
+2. The chance to hit per attack die is based on target armor. Apply any other modifiers.
 3. Roll 1d6 per attack and count successes. A natural result of 6 is always an automatic failure.
 4. Each successful attack inflicts 1 damage.  
 
@@ -116,8 +116,8 @@ The closest ally is hit instead if you get a 6, they take 1 damage.
 ### Criticals
 Crits apply both to PCs and NPCs. Critical hits do not affect creatures with Supernatural HP.  
 A result of 1 on an attack die is a Critical. It deals 1 damage and a Wound.  
-When you land a crit on an enemy with more Might than you have levels, deplete your weapon.
-When you suffer a crit, deplete your armor.  
+* When you land a crit on an enemy with more Might than you have levels, deplete your weapon.
+* When you suffer a crit, deplete your armor.  
 
 ### Attacking to subdue
 Declare before attacks. -1 chance to hit. If you reduce the target to exactly 0 HP (no excessive damage), you subdue them. Otherwise they die as usual.
@@ -163,19 +163,28 @@ Common morale triggers include:
 * Retreating or surrendering allies
 
 #### Morale check
-Roll 2d6 per group.
+Roll 2d6 per group. Scoring equal to or less than morale value is a success, scoring more is a failure. 
+* Success: morale holds.
+* Failure: organized retreat. If they cannot retreat, they will try to surrender. If surrender is not an option either (enemies are not taking prisoners), they will fight to the death.  
+* Failure and ≥ 12: disorganized retreat or surrender.
 
-≤ 7: morale Holds  
-8-11: organized retreat. If they cannot retreat, they will try to surrender. If surrender is not an option either (enemies are not taking prisoners), they will fight to the death.  
-≥ 12: disorganized retreat or surrender  
+Typical:
+* Untrained or cowardly 6 
+* Normal 7
+* Well Trained 8
+* Elite +1 chance
+* Fanatics +2 chances
 
-Or use individual morale scores.  
+* Harpies, unicorns, dryads, kobolds: 6
+* Giant croc, ogre, troll, giant rat : 8
+* Gargoyle, scorpion, stirge: 9
+* Undead, berserkers, minotaurs, lizardmen and oozes never need to test morale.
 
 Modifiers:
-* Untrained +1
-* Trained -1
-* Elite -1
-* Fanatics, berserkers -2
+* Size +/- 1
+* Side with the most things to fear +/- 2
+
+
 
 ### End of Combat
 A fight lasts at least 10 minutes (1 exploration turn), the time it takes to fight, regroup, breathe, patch wounds, etc.

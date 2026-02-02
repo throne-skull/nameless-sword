@@ -25,10 +25,10 @@ After an expedition with hireling, calculate the total XP. Divide by the number 
 Players can hire up to 1 % of a settlement’s population, rounding up, as mercenaries. Except in large cities or places with heavy traffic, mercenaries can only be hired from the settlement’s listed forces.  
 Mercenaries can defend a stronghold, fight other armies, repel monsters, escort caravans and guard camp. They are unwilling to accompany the party into dungeons, ruins and lairs and will not fight to the death.  
 They require 1 week paid up-front and a half-share of loot they helped to get.
-* 3 silver for a skirmisher. Morale 5, must test it to enter and stay in melee. No armor
-* 5 silver for a footman. Morale 7, stats according to gear (typically Light armor and shield)
-* 10 silver for a veteran footman. Morale 9, stats according to gear (typically Medium armor and shield)
-* 20 silver for a horseman. Morale 9, +1 HP and +1 ATK while mounted, stats according to gear (typically Medium armor and shield)
+* 3 silver for a skirmisher. Morale 6, must test it to enter and stay in melee. No armor
+* 5 silver for a footman. Morale 7, stats according to gear (typically armor rating 1)
+* 10 silver for a veteran footman. Morale 8, stats according to gear (typically armor rating 2)
+* 20 silver for a horseman. Morale 9, +1 HP and +1 ATK while mounted, stats according to gear (typically armor rating 2)
 
 ### Retainers
 Retainers are would-be adventurers inspired by the PCs. They are the only people ready to follow them even in dungeons and other very perilous places. 
