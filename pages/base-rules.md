@@ -37,8 +37,8 @@ Finesse skills:
 * Herbs
 
 There are three Saves:
-* **Capture**: 4-Dead Weight. Used against area effects, paralysis, sleep, petrification, blindness, being tied up (trick the one who binds you into believing he has the right constraint and untie yourself later), telekinesis, metamorphosis, mutations, traps, wands, rays. 
-* **Death**: 2, or 3 against injuries if you wear a helmet. Used against lethal injuries, disease, poison.
+* **Capture**: 4-Dead Weight. Used against area effects, paralysis, sleep, petrification, blindness, being tied up (trick the one who binds you into believing he has the right constraint and untie yourself later), telekinesis, metamorphosis, some traps, wands, rays. 
+* **Death**: 2, improves by 1 at levels 3, 6 and 9. Used against deadly falls, disease, poison, and when sundering your shield.
 * **Witchcraft**: 1 + ritual warding (if any, and only temporary). Used against spells who bypass the other saves, curses and mind-altering effects. Base ward is 0. Make a sacrifice and smear blood from it on yourself to gain +1 to +4 warding according to size and rarity of the sacrifice, until the next sunrise.
 
 There are three Attributes:
@@ -46,7 +46,9 @@ There are three Attributes:
 * **Attacks (ATK)**: how many attacks you have per round.
 * **Mana**: the number of spells you can cast and their power.
 
-A character starts at Level 1 with 2 HP, 1 attack, and 0 Mana. Their Flesh is the result of 1d6 (see Combat, health).
+A character starts at Level 1 with 2 HP, 1 attack, and 0 Mana. 
+
+Roll 1d6 for Flesh, which represents a last chance to escape death.
 
 Choose one Trait:
 * **Warrior**. xxxx

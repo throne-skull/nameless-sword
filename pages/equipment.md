@@ -202,21 +202,22 @@ Weapons
 | Improvised| | | -1 chance to hit. May be ↔ or ‡|
 |Dagger	↔|5	|1	| Instant draw as long as it is not packed in Dead Weight. 
 |Spear	|5	|2	| Can attack from one rank behind an ally but max 1 attack per round. Grants simultaneous attack resolution against a frontal charge. Can be used with one or two hands, gain +1 ATK with two hands. |
-|Halberd ‡	|10	|2	| Ignore target armor, base chance to hit is 3-in-6 before other modifiers. |
+|Halberd ‡	|10	|2	| +1 ATK. +1 die to start or contest a grapple. |
 |Mace	|5 |1	| Deal +1 damage on a crit. |
+|Greatmace ‡	|10	|2	| Ignore target armor, base chance to hit is 3-in-6 before other modifiers. |
 |Flail	|5 |1	| +1 chance to hit. On a 6, the bounce hurts you for 1 damage. |
-|Greatflail	|10 |2	| +1 ATK. +1 chance to hit. On a 6, the bounce hurts you for 1 damage. |
+|Greatflail	‡|10 |2	| +1 ATK. +1 chance to hit. On a 6, the bounce hurts you for 1 damage. |
 |Handaxe ↔	|5 |1	| +1 ATK when thrown. |
-|Battle axe	|5	|1	| +1 die to start or contest a grapple. |
-|Long axe ‡	|10	|2	| +1 ATK. Deal +1 damage on a crit. |
-|Shortsword	|10	|1	|  Can be used in grapple even if not ↔. All damage dealt in grapple becomes a crit. |
-|Arming sword	|20	|1	| +1 ATK if you have priority.|
-|Greatsword ‡|30	|2	| +1 ATK. Another +1 ATK if you have priority. |
+|Battle axe	|7	|1	| +1 die to start or contest a grapple. |
+|Greataxe ‡	|10	|2	| +1 ATK. Deal +1 damage on a crit. |
+|Shortsword	|15	|1	|  Can be used in grapple even if not ↔. All damage dealt in grapple becomes a crit. |
+|Arming sword	|30	|1	| +1 ATK if you have priority.|
+|Greatsword ‡|50	|2	| +1 ATK. Another +1 ATK if you have priority. |
 |Sling 	|1	|P	|Can launch grenades and potions. |
-|Javelin	|5	|1	| When thrown, cancel shield bonus against ranged attacks.|
+|Javelin	|5	|1	| +1 chance to hit when thrown. |
 |Shortbow ‡|	5	|1	|Can shoot in confined spaces and/or from cover.|
-|Longbow ‡	|10	|2	|+1 ATK. |
-|Crossbow ‡	|20	|2	| Treat target armor as 0 for the shot. +1 hit chance per round spent aiming. Reloading takes a whole round. Can shoot in confined spaces and/or from cover.|
+|Longbow ‡	|20	|2	|+1 ATK. |
+|Crossbow ‡	|30	|2	| Treat target armor rating as 0 for the shot. +1 hit chance per round spent aiming. Reloading takes a whole round. Can shoot in confined spaces and/or from cover.|
 
 Two-handed (‡): attacking requires two hands.
 
@@ -224,45 +225,35 @@ Small (↔): Can be used in grapple. Limited to 1 attack per round unless agains
 
 Armor
 
-|Type	|Armor|	Price	|Load|	Swim|
-|-------|-----|---------|-----|------|
-|Light|	1	|20	|2	|Yes|
-|Medium|	1	|100	|2	|Test|
-|Heavy	|1	|200	|2	|No|
-|Shield	|1	|5	|2	|
-|Helmet|	0	|5	|1|	
+|Type	|Armor rating|	Price	|Load|
+|-------|-----|---------|-----|
+|Gambeson |	0	|10	| +1	| 
+|Helmet|	0	|10	| +1	|
+|Mail|	+1	|100	|+2	|
+|Lamellar plates |+1	|200	|+2	|
+|Shield	|+1	|5	|Hand or +2	|
 
-Each rank of armor stacks with the others for total Armor value, price and load.
-A full armor set without shield is 6 load, Armor 3, for a total of 320 silver.
+* Each rank of armor stacks with the others for total Armor rating, price and load.
+* Add your armor rating to your Dead Weight. 
 
-Armor
-
-|Type	|Armor|	Price	|Load|	Swim|
-|-------|-----|---------|-----|------|
-|Light|	1	|20	|2	|Yes|
-|Light|	1	|20	|2	|Yes|
-|Medium|	1	|100	|2	|Test|
-|Heavy	|1	|200	|2	|No|
-|Shield	|1	|5	|2	|
-|Helmet|	0	|5	|1|	
-
-
-| AC : | 9-8 | 7-5 | 4-3 | 2 |
+| AC | 9-8 | 7-5 | 4-3 | 2 |
 |------|:-----:|:-----:|:-----:|:----:|
 | Ascending | 10-11 | 12-14 | 15-16 | 17 |
+| Armor rating | 0 | 1 | 2 | 3 |
 | Chance to hit this armor | 4-in-6| 3-in-6 | 2-in-6 | 2-in-6 Melee, 1-in-6 Missile |
-| Type | None or gambeson, helmet| Armor or shield | Heavy armor or armor and shield | Heavy armor and shield |
+| Type | None, gambeson, helmet| Mail / Shield / Lamellar | Mail + Shield / Mail + Lamellar / Lamellar + Shield | Mail + Lamellar + Shield |
 
-#### Helmet
-+2 in your Death Save against fatal injuries (0 HP). You can also sacrifice your helmet to cancel the Wound or damage of a critical, but not both, and only before the Wound is rolled.
+#### Helmet, gambeson
+Sacrifice one to cancel a Wound (but the damage stay) before it is rolled or to reduce by 1 the number of Flesh you should lose if you are down to your last HP. _e.g. You should lose 1d6 Flesh, instead you lose 1d6-1 flesh._
 
 #### Shield
-Wielding a shield, you have +1 Armor and:
-* Cover. Against ranged attacks, a shield is worth 3 armor instead of 1.
-* Sundering. When attacks are declared, but before they are resolved, you can sacrifice your shield. This cancels 1 damage if you’re hit. You sacrifice your shield even if no attack hits you (you over-block strikes that aren’t as threatening as you thought).  
+When you should lose your last HP and start losing Flesh, sunder your shield to make a Save against Death.
+* If you fail, reduce by 1 the number of Flesh you should lose.
+* If you succeed, your shield absorbs all remaining damage and you are left with 1 HP but no loss of Flesh.
 
-Except during a duel, only player characters can sunder their shields.  
+For NPC: when they should die, their shield is sundered and they get 2-in-6 chance to survive with 1 HP. Treat NPC with AC 6, 4 and 2 as having a shield.
 
-Loot. Shields from defeated fighters have a 2-in-6 chance of not being broken.   
+Shields from defeated fighters have a 2-in-6 chance of not being broken.   
+
 </details>
 

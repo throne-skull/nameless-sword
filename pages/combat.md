@@ -123,8 +123,6 @@ The closest ally is hit instead if you get a 6, they take 1 damage.
 ### Criticals
 Crits apply both to PCs and NPCs. Critical hits do not affect creatures with Supernatural HP.
 A result of 1 on an attack die is a Critical. It deals 1 damage and a Wound.  
-* If you wear a helmet, you can sacrifice it to cancel the Wound or the damage, but not both, and you must do so before the Wound is rolled. 
-* Deplete twice (it breaks) one rank of armor to cancel a Wound, but not the damage.
 
 ### Attacking to subdue
 Declare before attacks. -1 chance to hit. If you reduce the target to exactly 0 HP (no excessive damage), you subdue them. Otherwise they die as usual.
@@ -162,12 +160,10 @@ If you manage to get close enough a target while they are unaware, and you can e
 
 ### Formal Duel
 As with rock-paper-scissors, duelists must simultaneously declare their technique for the round between Parry, Assault and Feint. The winner gets a bonus for the round.
-* Parry beats Assault : +2 armor
+* Parry beats Assault : +1 armor rating
 * Assault beats Feint : +1 Attack
-* Feint beats Parry : +2 chance to hit
+* Feint beats Parry : +1 chance to hit
 * Same: both get the bonus as if they had won.
-
-Exceptionally, during a duel, NPCs can sunder their shield as a PC would.
 
 ## Morale
 PCs never test Morale, but most NPCs do, allies and enemies. Unless they are exceptionally disciplined, insensitive or fanatical, they must check morale when facing a trigger.  
