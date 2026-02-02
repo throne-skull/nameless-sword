@@ -173,17 +173,14 @@ Each creature has its own Disposition which affects the way they approach the si
 * Combat: if one side attacks or maneuvers, start Combat. 
 
 ### Chase
-* Organized retreat: use the lowest Capture save of the group.
+* Organized retreat: use the lowest speed of the group.
 * To each their own: individual results.
 
-Substract the Capture stat of the pursuers to the Capture save of the evaders (for NPC, by default 6 minus worn armor). If the value is positive, it is the chance in 6 to escape for the fleeing party, modified by:
+Substract the Speed of the pursuers to the Speed of the evaders. The remaining value is the chance in 6 to escape for the fleeing party, modified by:
 * +1 for dropping something of interest for pursuers (food, treasure...), if they care
 * +1 for each obstacle used favoring the evaders (corners, traps, oil, caltrops, off-road trails...)
 
 If you fail, you are caught and the enemy can perform a round of action against you as if it had surprise. You may flee again after if possible.
-
-If the value is negative, escape is impossible.  
-Fast monsters (bears, giant spiders...) add half their Might to their Capture save. 
 
 * The chance in 6 to escape is aIso the number of rooms the evaders can pass through before being caught on a failure, or the number of rooms they put between them and pursuers on a success.  
 * Fleeing is done at Fast speed as for exploration movement.  

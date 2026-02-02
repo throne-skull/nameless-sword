@@ -48,13 +48,14 @@ There are three Attributes:
 
 A character starts at Level 1 with 2 HP, 1 attack, and 0 Mana. 
 
-Roll 1d6 for Flesh, which represents a last chance to escape death.
+Roll 1d6 for Flesh, which represents a last chance to escape death (see Combat, health).
 
-Choose one Trait:
-* **Warrior**. xxxx
+There are six classes. They have no effect on choices you can make with levels, this is only a starting point for your character. Choose one:
+* **Warrior**. Each time you should suffer 1 damage, you have 1-in-6 chance to cancel the damage. 
+* **Explorer**. In your inventory, you can store two items for the same load count as one, but only it the two items are the same. This doesn't work with armor. Within reasonnable limits, all treasures are "the same". 
 * **Silent**. While stealthy, you don't risk noise -even when trying to kill someone, walking on dry leaves or similar activity. When you roll for surprise alone, the other side has 4-in-6 chance to be surprised instead of the normal 2-in-6.
-* **Malefica(r)**. Each time you gain a level, gain 1 random spell. You start the game with 1 HP instead of 2, but you also have 1 Mana and two random spells. XXXXXXXXXXXXXX
-* **Berserker**. XXXXXXX Invoke holy furor to gain +1 ATK per round until end of fight. You automatically pass death saves from injuries while in this state (you still roll for Wounds with a d20). You can’t do something else than trying to kill all enemies until it’s done. Save against Capture after 10 minutes or lose this ability for the day.
+* **Malefica(r)**. You start the game with 1 HP instead of 2, but you also have 1 Mana, three random spells, and +1 spell slot: you can prepare as many spells as Mana +1. 
+* **Berserker**. Invoke holy furor to gain +1 ATK per round until end of fight. While in this state, the first time you lose Flesh, you keep at least 1 Flesh after. You can’t do something else than trying to kill all enemies until it’s done. Save against Capture after 10 minutes or lose this ability for the day.
 * **Deadeye**. There is no limitation to the number of ranged attacks you can make per round, you use your full attacks. 
 
 ---

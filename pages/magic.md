@@ -10,7 +10,7 @@ A spell is a captive spirit, frozen in a function. You don’t learn it, you own
 Each spell exists as an individual entity and cannot be copied, only moved. You could, however, capture two entities with the same effect (same spell) and thus be able to own it twice.
 
 You can prepare as many spells as your Mana, but only one spell per night. Each spell can be cast once, then it needs to be prepared again. If you own twice or more the same spell, each multiple is treated as a separate, individual spell.
-* If you wear a witch hat (1 load), you can prepare as many spells as your Mana +1.
+* If you wear a witch hat (1 load), you cast spells as if with Mana +1.
 
 There is no limit to the number of spells you can own. To own new spells, you must rely on the Maleficar trait or find them in adventure or through teachers or the skulls of dead mages.
 * If you focus near the skull of a freshly dead mage, you have 2-in-6 chance per spell they had to steal the spell before it vanishes in the wild.  
@@ -39,8 +39,8 @@ Conversion from the blog post:
 
 ### Mage’s gear (20 silver each)
 * Catalyst (1 load): if you cast a spell without it, you suffer 1 damage.
-* Mana hat (1 load): conceals your mana emanation. If you cast spells without it, you may attract unwanted attention from other magic-users and creatures seeking mana sources. You can also sacrifice your hat to cast a spell with +1 Mana.
-* Arcanic Robe (clothing): if you don’t wear armor, increases your save against Witchcraft by 2.
+* Mana hat (1 load): cast spells as if with Mana +1. Conceals your mana emanation. If you cast spells without it, you may attract unwanted attention from other magic-users and creatures seeking mana sources. 
+* Arcanic Robe (clothing): if you don’t wear armor, increases your save against Witchcraft by 1.
 * Grimoire (1 load): a grimoire can hold all your spell scrolls (otherwise 1 scroll = 1 load).
 
 ### Spell scrolls
@@ -54,7 +54,7 @@ Holding a magic item allows you to learn its effects, but you also suffer any cu
 Weapons and armors typically have an enchantment bonus of +1 to +3.
 * **Weapon**: +1 ATK against as many creature types as its bonus (giants, dragons...).
 * **Armor**: takes 1 less load per bonus. At +3, the armor weight nothing and grants you +1 to your Saves against Capture.
-* **Shield**: each time you "sunder" it, it has 3-in-4 chance to only lose 1 point of enchantment instead.
+* **Shield**: each time you "sunder" it, it has 3-in-4 chance to only lose 1 point of enchantment instead. When you sunder it, your Save against Death auto-succeed. 
 
 ##### Other item types
 * **Potion**. One-use. If the label is not clear, you can only learn its effects by using it.

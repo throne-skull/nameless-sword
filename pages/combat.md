@@ -54,11 +54,7 @@ You must declare a spell in the Opening phase. If you have priority, you cast th
 ### Movement
 The side without priority declares its movement, and the side with priority can interrupt or hinder with its own movement.
 #### Space
-1 space = 2 meters in the game world. For theater of the mind, that’s all you need.   
-With a battlemap and ruler, 1 space = 2cm.   
-If you aren’t used to metric, you may use:  
-1 space = 5 feet in the game world.  
-With a map and ruler, 1 space = 1’’.  
+1 space = 10 feet or 3 meters in the game world = 1 square in classic dungeon maps = 1’’ at the table with a ruler.
 #### Speed
 Human speed is 6 minus Dead Weight.  
 You can move up to your speed in one action. You may pass through allies if there is enough space, but not enemies.  
@@ -132,14 +128,12 @@ Instead of attacking directly, you can attempt a grappling. Grapplers roll as ma
 If winning a grapple, choose one:
 * Throw or dismount your opponent, they are prone.
 * Disarm the target of a weapon, shield, or other held item.
-* Pin your foe and stay in grapple. Record the result of your win. Grappled foes break out by attempting to roll higher than the result that initially beat them. Each round grappled foes must check Morale. Additionally, you may use your full round to tighten the grip and deal 1 damage, +1 per previous round doing this. As long as you are winning the grapple, you can attack your target in the melee phase (not the first round, as the grapple attempt used your melee action), and they can't; if you are not on the ground and have not used your movement, you can also move at half speed and move them with you. If you are losing a grapple, you can't do much else than trying to reverse it. Note: for action resolution, whatever the priority, the current winner of the grapple always act first between the two _e.g. the second round of the grapple, the winner can attack before the victim can attempt to escape_.
+* Pin your foe and stay in grapple. Record the result of your win. Grappled foes break out by attempting to roll higher than the result that initially beat them. Each round grappled foes must check Morale. Additionally, you may use your full round to tighten the grip and deal 1 damage, +1 per previous round doing this. As long as you are winning the grapple, you can attack your target in the melee phase (not the first round, as the grapple attempt used your melee action), and they can't; you can also move at half speed in the opening phase and move them with you. If you are losing a grapple, you can't do much else than trying to reverse it. Note: for action resolution, whatever the priority, the current winner of the grapple always act first between the two _e.g. the second round of the grapple, the winner can attack before the victim can attempt to escape_.
 
 If you fail to grapple your opponent, you must choose:
 * They win and choose one option from above;
 * Suffer 1 damage, 2 if they use a two-handed weapon;
 * You are thrown, prone, and a receive a temporary Wound that you cannot cancel by sacking a helmet or gambeson.
-
-When you charge, you can give up your First Strike to attempt a grapple instead (it doesn't work against spears). Otherwise moving eats your action en prevents a grapple. 
 
 To fighters not in the grapple, you are both treated as prone (even standing) and can suffer deathblows if you have no allies within range to protect you (see Prone). 
 
@@ -169,15 +163,19 @@ Common morale triggers include:
 * Retreating or surrendering allies
 
 #### Morale check
-Roll 1d12 by group. A result equal to or less than your chances is a success. The chances of success depend on the combatants’ military experience. 
-* Weak: 5. Untrained troops.
-* Average: 7. Trained troops.
-* Strong: 9. Veteran and elite troops. 
+Roll 2d6 per group.
 
-Circumstances may modify the chances of success by up to +/- 2.  
-A failure results in organized retreat. If they cannot retreat, they will try to surrender. If surrender is not an option either (enemies are not taking prisoners), they will fight to the death.  
-Rolling a 12 results in disorganized retreat or surrender.  
-On a success, morale holds.  
+≤ 7: morale Holds  
+8-11: organized retreat. If they cannot retreat, they will try to surrender. If surrender is not an option either (enemies are not taking prisoners), they will fight to the death.  
+≥ 12: disorganized retreat or surrender  
+
+Or use individual morale scores.  
+
+Modifiers:
+* Untrained +1
+* Trained -1
+* Elite -1
+* Fanatics, berserkers -2
 
 ### End of Combat
 A fight lasts at least 10 minutes (1 exploration turn), the time it takes to fight, regroup, breathe, patch wounds, etc.
@@ -186,7 +184,7 @@ A fight lasts at least 10 minutes (1 exploration turn), the time it takes to fig
 ## Hit Points (HP)
 A damage is something that could kill someone. Each damage removes 1 HP. If you have more than 1 HP, you can survive things that would kill a lesser being. Damage is mostly cosmetic for a character until they lose all their HP, at which point their life is in danger.
 ### Flesh
-Your last HP is your Flesh. For each damage you suffer that should reduce you below 1 HP, roll 1d6 instead and substract the result from your Flesh. If your Flesh is reduced to 0, you die. Otherwise, you survive with a permanent Wound, and you are down and dying.
+Your last HP is your Flesh. For each damage you suffer that should reduce you below 1 HP, roll 1d6 instead and substract the result from your Flesh. If your Flesh is reduced to 0, you die. Otherwise, you survive but are down and dying, and must roll 1d20: on 1-10, receive the relevant temporary wound; on 11-20, receive a permanent Wound (substract 10 to the result to know which one).
 #### Dying
 You only have 1 action per round, in the Opening phase. Basically you can only crawl, cry for help or try to patch yourself.  After the first round you started dying, at the end of each round you must Save against Death or die. 
 * **First aid**: Finesse test (Very hard if you try on yourself). Success: patient stabilised. Failure: a turn spent for nothing. Multiple attempts possible, but only 1 per round. Several healers can act together. Deplete bandages to reduce difficulty (auto success if you help someone else, normal test if you try on yourself). 
