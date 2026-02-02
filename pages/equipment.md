@@ -235,6 +235,25 @@ Armor
 Each rank of armor stacks with the others for total Armor value, price and load.
 A full armor set without shield is 6 load, Armor 3, for a total of 320 silver.
 
+Armor
+
+|Type	|Armor|	Price	|Load|	Swim|
+|-------|-----|---------|-----|------|
+|Light|	1	|20	|2	|Yes|
+|Light|	1	|20	|2	|Yes|
+|Medium|	1	|100	|2	|Test|
+|Heavy	|1	|200	|2	|No|
+|Shield	|1	|5	|2	|
+|Helmet|	0	|5	|1|	
+
+
+
+| AC : | 9-8 | 7-5 | 4-3 | 2 |
+|------|-----|-----|-----|----|
+| Ascending | 10-11 | 12-14 | 15-16 | 17 |
+| Chance to hit this armor | 4-in-6| 3-in-6 | 2-in-6 | 2-in-6 Melee, 1-in-6 Missile |
+| Type | None or gambeson, helmet| Armor or shield | Heavy armor or armor and shield | Heavy armor and shield |
+
 #### Helmet
 +2 in your Death Save against fatal injuries (0 HP). You can also sacrifice your helmet to cancel the Wound or damage of a critical, but not both, and only before the Wound is rolled.
 
