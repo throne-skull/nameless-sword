@@ -13,7 +13,7 @@ With surprise you can perform one round of actions unanswered and you have +1 ch
 At the start of each round, roll 1d6 to determine the priority. 1-3 PCs, 4-6 opponents (context might change the odds). The phases are resolved simultaneously for each group, by priority within each phase.  
 Side A Opening then side B Opening, side A Melee then side B Melee, etc.  
 Members of the same side can act in any order they wish between themselves. Actions are resolved as they are declared.  
-A fataly wounded fighter can still finish their action or attacks in the same phase (simultaneous action, if you kill a fighter, they may still kill you in the same phase).  
+All combat occurs simultaneously; casualties are marked, but not removed from the tabletop until all fighting this phase is done. A fataly wounded fighter can still finish their action or attacks in the same phase (simultaneous action, if you kill a fighter, they may still kill you in the same phase). 
 
 ### Phases
 Each phase lists the possible actions within it. 
@@ -21,7 +21,7 @@ Each phase lists the possible actions within it.
 * 1  Opening Phase
     - Ranged attacks
     - Movement
-    - Cast quick spells 
+    - Start spellcasting
 * 2  Melee Phase
     - Melee attacks
 * 3  Ritual Phase
@@ -49,7 +49,7 @@ However, you can do a miscellaneous action instead of an Opening or Melee action
 
 ### Spells
 To cast spells, you must be out of melee.  
-You must declare a spell in the Opening phase. Make a Capture Save: on a success you cast the spell now. On failure you cast it in ritual phase. If you are hit in-between, you lose your action and the spell fails (but is not lost, you can try to cast it again later).
+You must declare a spell in the Opening phase. If you have priority, you cast the spell now. If you don't, you cast it in ritual phase. If you are hit in-between, you lose your action and the spell fails (but is not lost, you can try to cast it again later).
 
 ### Movement
 The side without priority declares its movement, and the side with priority can interrupt or hinder with its own movement.
@@ -73,8 +73,8 @@ To disengage and retreat from melee, you have to forgo all other actions this ro
 ### Melee attacks
 
 1. You must allocate your attacks as equally as possible between targets within reach. Then proceed in order for each target:
-2. The chance to hit per attack die is 8 minus target armor. Apply any other modifiers.
-3. Roll 1d12 per attack and count successes. A result of 12 is always an automatic failure.
+2. The chance to hit per attack die is 5 minus target armor. Apply any other modifiers.
+3. Roll 1d6 per attack and count successes. A natural result of 6 is always an automatic failure.
 4. Each successful attack inflicts 1 damage.  
 
 The Referee rolls attacks for the enemies, PCs for themselves and their allies.  
@@ -102,7 +102,7 @@ You can forgo all your attacks in the melee phase to:
 * **Advantage** (e.g. high ground): +1 chance to hit.
 * **Narrow surroundings**: fighting in the doorway, for example, could reduce the number of attacks that fighters can make, as well as the number of fighters who can attack.
 * **Blinded**: unable to attack.
-* **Mounted**: NPCs get +1 Might (+1 HP, +1 attack). PCs get +1 attack and can choose to sacrifice the mount to absorb 1 damage for them.
+* **Mounted**: NPCs get +1 Might (+1 HP, +1 attack). PCs get +1 attack and can choose to sacrifice the mount to absorb 1 damage for them. Heavy cavalry has +1 chance to hit.
 
 ### Ranged attacks
 You can only make one ranged attack per round, unless specified otherwise by the weapon or an ability.
@@ -116,14 +116,15 @@ Throw
 * If you have a throwing weapon, you can throw it while charging (handaxe, javelin).   
 
 #### Target with shield  
-Against ranged attacks, a shield is worth 3 armor instead of 1. 
+Against ranged attacks, a shield is worth 2 armor instead of 1. 
 #### Target engaged in melee  
-The closest ally is hit instead if you get a 10+, they take 1 damage.   
+The closest ally is hit instead if you get a 6, they take 1 damage.   
 
 ### Criticals
 Crits apply both to PCs and NPCs. Critical hits do not affect creatures with Supernatural HP.
 A result of 1 on an attack die is a Critical. It deals 1 damage and a Wound.  
 * If you wear a helmet, you can sacrifice it to cancel the Wound or the damage, but not both, and you must do so before the Wound is rolled. 
+* Deplete twice (it breaks) one rank of armor to cancel a Wound, but not the damage.
 
 ### Attacking to subdue
 Declare before attacks. -1 chance to hit. If you reduce the target to exactly 0 HP (no excessive damage), you subdue them. Otherwise they die as usual.
@@ -194,15 +195,12 @@ A fight lasts at least 10 minutes (1 exploration turn), the time it takes to fig
 # Health
 ## Hit Points (HP)
 A damage is something that could kill someone. Each damage removes 1 HP. If you have more than 1 HP, you can survive things that would kill a lesser being. Damage is mostly cosmetic for a character until they lose all their HP, at which point their life is in danger.
-#### Save against death
-If a character’s HP is reduced to 0, they must make a save against death: if they fail, they die, otherwise they survive by risking a permanent wound (see Wounds).
-
-If alive, the character can continue to act normally thanks to adrenaline, but they are in critical condition.
-
-#### Critical condition
-The character is bleeding out and dies at the end of 2 rounds following the one in which they entered the critical condition, unless stabilised. If they suffer further damage while at 0 HP, they die.
-* **First aid**: Finesse test (Very hard if you try on yourself). Success: patient stabilised. Failure: a turn spent for nothing. Multiple attempts possible, but only 1 per round. Deplete bandages to reduce difficulty (auto success if you help someone else, normal test if you try on yourself). 
-* **Stabilized**: The character is no longer dying, but still at 0 HP. If they suffer further damage while at 0 HP, they die.
+### Flesh
+Your last HP is your Flesh. For each damage you suffer that should reduce you below 1 HP, roll 1d6 instead and substract the result from your Flesh. If your Flesh is reduced to 0, you die. Otherwise, you survive with a permanent Wound, and you are down and dying.
+#### Dying
+You only have 1 action per round, in the Opening phase. Basically you can only crawl, cry for help or try to patch yourself.  After the first round you started dying, at the end of each round you must Save against Death or die. 
+* **First aid**: Finesse test (Very hard if you try on yourself). Success: patient stabilised. Failure: a turn spent for nothing. Multiple attempts possible, but only 1 per round. Several healers can act together. Deplete bandages to reduce difficulty (auto success if you help someone else, normal test if you try on yourself). 
+* **Stabilized**: The character is no longer dying, can get up the next round and act "normally" as far as their wounds allow.
 * **Death**: When your character dies, create a new one or take control of a hireling. They quickly join the party.
 * **Nemesis**: A creature that kills a PC immediately gains +1 Might (+1 HP, +1 attack).
 
@@ -221,19 +219,19 @@ For each permanent wound you have, you can attract an additional retainer.
 
 | 1d10 | Wound |
 |-----|-------|
-| 1 | Shoulder: -1 to bashing chance|
-| 2| Arm: -2 to grapple results|
+| 1 | Shoulder: -1 Flesh|
+| 2| Arm: -1d to grapple|
 |3| Knee: -2 movement spaces (also apply as penalty in Capture for chases)|
 |4| Leg: -1 chance to succeed tests of Agility|
 |5| Guts: -1 chance to succeed tests of Vigor|
 |6| Head: -1 chance to succeed tests of Finesse|
-|7| Back: fills one inventory slot (in addition to the one of the Wound itself until healed) |
+|7| Back: fills two inventory slots (in addition to the one of the Wound itself until healed) |
 |8| Chest: -1 to Saves|
 |9| Eye: -1 chance to hit with ranged attacks|
 |10| Hand: you cannot use this hand for anything|
 
 ### Recovery
-* 1 HP per full day of rest
+* 1 HP per full day of rest. When you get back to at least 2 HP, recover all lost Flesh points.
 * All HP after a week of downtime
 * 1 Wound per week of full rest
 

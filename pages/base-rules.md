@@ -37,22 +37,22 @@ Finesse skills:
 * Herbs
 
 There are three Saves:
-* **Capture**: 6-Dead Weight. Used against area effects, paralysis, sleep, petrification, blindness, being tied up (trick the one who binds you into believing he has the right constraint and untie yourself later), telekinesis, metamorphosis, mutations, traps, wands, rays. 
-* **Death**: 5, or 7 against injuries if you wear a helmet. Used against lethal injuries, disease, poison.
-* **Witchcraft**: 2 + ritual warding (if any, and only temporary). Used against spells who bypass the other saves, curses and mind-altering effects. Base ward is 0. Make a sacrifice and smear blood from it on yourself to gain +1 to +4 warding according to size and rarity of the sacrifice, until the next sunrise.
+* **Capture**: 4-Dead Weight. Used against area effects, paralysis, sleep, petrification, blindness, being tied up (trick the one who binds you into believing he has the right constraint and untie yourself later), telekinesis, metamorphosis, mutations, traps, wands, rays. 
+* **Death**: 2, or 3 against injuries if you wear a helmet. Used against lethal injuries, disease, poison.
+* **Witchcraft**: 1 + ritual warding (if any, and only temporary). Used against spells who bypass the other saves, curses and mind-altering effects. Base ward is 0. Make a sacrifice and smear blood from it on yourself to gain +1 to +4 warding according to size and rarity of the sacrifice, until the next sunrise.
 
 There are three Attributes:
 * **Hit Points (HP)**: how many damage you can take before you die or lose bits of yourself.
 * **Attacks (ATK)**: how many attacks you have per round.
 * **Mana**: the number of spells you can cast and their power.
 
-A character starts at Level 1 with 2 HP, 1 attack, and 0 Mana.
+A character starts at Level 1 with 2 HP, 1 attack, and 0 Mana. Their Flesh is the result of 1d6 (see Combat, health).
 
 Choose one Trait:
-* **Warrior**. You have +1 chance to hit in combat. 
+* **Warrior**. xxxx
 * **Silent**. While stealthy, you don't risk noise -even when trying to kill someone, walking on dry leaves or similar activity. When you roll for surprise alone, the other side has 4-in-6 chance to be surprised instead of the normal 2-in-6.
-* **Malefica(r)**. Each time you gain a level, gain 1 random spell. You start the game with 1 HP instead of 2, but you also have 1 Mana and two random spells.
-* **Berserker**. Invoke holy furor to gain +1 ATK per round until end of fight. You automatically pass death saves from injuries while in this state (you still roll for Wounds with a d20). You can’t do something else than trying to kill all enemies until it’s done. Save against Capture after 10 minutes or lose this ability for the day.
+* **Malefica(r)**. Each time you gain a level, gain 1 random spell. You start the game with 1 HP instead of 2, but you also have 1 Mana and two random spells. XXXXXXXXXXXXXX
+* **Berserker**. XXXXXXX Invoke holy furor to gain +1 ATK per round until end of fight. You automatically pass death saves from injuries while in this state (you still roll for Wounds with a d20). You can’t do something else than trying to kill all enemies until it’s done. Save against Capture after 10 minutes or lose this ability for the day.
 * **Deadeye**. There is no limitation to the number of ranged attacks you can make per round, you use your full attacks. 
 
 ---
@@ -65,6 +65,8 @@ Each time you gain a level, choose one:
 * +1 HP
 * +1 ATK
 * +1 Mana
+
+In addition, each time you gain a level you can reroll your Flesh if you want, but you must keep the new result. 
 
 To improve your Characteristics, see Downtime.
 
@@ -97,7 +99,7 @@ Succeed on 3-in-6 if you are roughly equals. Slide up or down otherwise.
 If the knowledge of the outcome impacts the situation, the Referee might secretly roll for a character, or delay the roll until the last moment. 
 ## Saves
 Against specific threats, the Referee might call for you to make a save.  
-Each save rates the chances of success on 1d12 to avoid the threat.  
+Each save rates the chances of success on 1d6 to avoid the threat.  
 There are two types of threat.
 * Those that inflict damage: Roll once for each damage, each success prevents one damage.
 * Those that have a binary effect, suffered entirely on a failure or not at all on a success: Roll once.

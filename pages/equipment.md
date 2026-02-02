@@ -202,13 +202,16 @@ Weapons
 | Improvised| | | -1 chance to hit. May be ↔ or ‡|
 |Dagger	↔|5	|1	| Instant draw as long as it is not packed in Dead Weight. 
 |Spear	|5	|2	| Can attack from one rank behind an ally but max 1 attack per round. Grants simultaneous attack resolution against a frontal charge. Can be used with one or two hands, gain +1 ATK with two hands. |
-|Halberd ‡	|10	|2	| Enemy armor is always treated as 2. |
+|Halberd ‡	|10	|2	| Ignore target armor, base chance to hit is 3-in-6 before other modifiers. |
+|Mace	|5 |1	| Deal +1 damage on a crit. |
+|Flail	|5 |1	| +1 chance to hit. On a 6, the bounce hurts you for 1 damage. |
+|Greatflail	|10 |2	| +1 ATK. +1 chance to hit. On a 6, the bounce hurts you for 1 damage. |
 |Handaxe ↔	|5 |1	| +1 ATK when thrown. |
-|Battle axe	|5	|1	| Successful attacks with a result of 1-2 deal +1 damage. |
-|Long axe ‡	|10	|2	| +1 ATK. And successful attacks with a result of 1-2 deal +1 damage. |
-|Shortsword	|10	|1	| +1 ATK if you have priority. |
-|Arming sword	|20	|1	| +1 armor if you have priority. Can be used with one or two hands, gain +1 ATK with two hands.|
-|Greatsword ‡|30	|2	| +1 ATK. Deal +1 damage on a critical. If you have priority, treat target armor as 1. |
+|Battle axe	|5	|1	| +1 die to start or contest a grapple. |
+|Long axe ‡	|10	|2	| +1 ATK. Deal +1 damage on a crit. |
+|Shortsword	|10	|1	|  Can be used in grapple even if not ↔. All damage dealt in grapple becomes a crit. |
+|Arming sword	|20	|1	| +1 ATK if you have priority.|
+|Greatsword ‡|30	|2	| +1 ATK. Another +1 ATK if you have priority. |
 |Sling 	|1	|P	|Can launch grenades and potions. |
 |Javelin	|5	|1	| When thrown, cancel shield bonus against ranged attacks.|
 |Shortbow ‡|	5	|1	|Can shoot in confined spaces and/or from cover.|
