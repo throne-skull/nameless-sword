@@ -128,7 +128,7 @@ Broken items you carried home can be repaired: it costs as much as one price cat
 
 ## Items
 <details markdown="1">
-<summary><b>Basic: 1 silver</b></summary>
+<summary><b>List</b></summary>
 Basic
 
 
@@ -149,10 +149,7 @@ Basic
 |Grease bag|	1|
 |Cooking pot|	1|
 
-</details>
 
-<details markdown="1">
-<summary><b>Common: 5 silver</b></summary>
 Common
 
 
@@ -172,10 +169,7 @@ Common
 |Specialized tool|	Variable|
 |Sheep / pig	||
 
-</details>
 
-<details markdown="1">
-<summary><b>Precious: 20 silver</b></summary>
 Precious
 
 
