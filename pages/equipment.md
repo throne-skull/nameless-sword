@@ -247,9 +247,8 @@ Armor
 |Helmet|	0	|5	|1|	
 
 
-
 | AC : | 9-8 | 7-5 | 4-3 | 2 |
-|------|-----|-----|-----|----|
+|------|:-----:|:-----:|:-----:|:----:|
 | Ascending | 10-11 | 12-14 | 15-16 | 17 |
 | Chance to hit this armor | 4-in-6| 3-in-6 | 2-in-6 | 2-in-6 Melee, 1-in-6 Missile |
 | Type | None or gambeson, helmet| Armor or shield | Heavy armor or armor and shield | Heavy armor and shield |
