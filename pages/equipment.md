@@ -104,6 +104,36 @@ Broken items you carried home can be repaired: it costs as much as one price cat
 
 ---
 
+<details markdown="1">
+<summary><b>Sacks, supplies & Transport</b></summary>
+
+## Sacks & Transport
+1 sack is 10 loads of items. 
+
+| Mounts & Wagons |	Price	| Sacks capacity |
+| ----------------|---------|----------------|
+| Human porter	|	| 1 |
+| Mule, ox	| 20	| 2 |
+| Work horse |	40	| 2 |
+| Destrier or palfrey	| 100 |	2 |
+| Small wagon, requires 2 draft animals |	80 | 8 |
+| Medium wagon, requires 4 draft animals	| 120 |	16 |
+| Heavy wagon, requires 6 draft animals	| 160 |	24 |
+
+### Mounts
+* Mules have good stamina and can thrive on less nutritious pasture than horses.
+* Horses are fast enough to escape many monsters. You can even ride a laden horse in an ermegency (escaping from a wandering encounter). However, they need good pasture or rations (1 load per day of feeding) to keep going.
+* Destriers don’t fear combat and can be ridden into battle.
+* Palfreys can travel at Fast speed without suffering the usual 1d3 fatigues.
+* Wagons have no suspensions: travel is slow, rough, and only possible by road. 
+
+## Supplies
+You can buy 10 loads of unspecified goods under the same price category and put them in 1 sack. E.g. a sack of common items costs 50 silver and contains 10 loads of common items worth 5 each.
+You can equip a hireling porter with 1 sack of a specific category (food, climbing, light, etc.) to simplify the management of large expeditions.
+</details>
+
+---
+
 ## Items
 <details markdown="1">
 <summary><b>List</b></summary>
@@ -162,36 +192,6 @@ Broken items you carried home can be repaired: it costs as much as one price cat
 |Tent	|2|
 |Cow (good)	||
 
-</details>
-
----
-
-<details markdown="1">
-<summary><b>Sacks, supplies & Transport</b></summary>
-
-## Sacks & Transport
-1 sack is 10 loads of items. 
-
-| Mounts & Wagons |	Price	| Sacks capacity |
-| ----------------|---------|----------------|
-| Human porter	|	| 1 |
-| Mule, ox	| 20	| 2 |
-| Work horse |	40	| 2 |
-| Destrier or palfrey	| 100 |	2 |
-| Small wagon, requires 2 draft animals |	80 | 8 |
-| Medium wagon, requires 4 draft animals	| 120 |	16 |
-| Heavy wagon, requires 6 draft animals	| 160 |	24 |
-
-### Mounts
-* Mules have good stamina and can thrive on less nutritious pasture than horses.
-* Horses are fast enough to escape many monsters. You can even ride a laden horse in an ermegency (escaping from a wandering encounter). However, they need good pasture or rations (1 load per day of feeding) to keep going.
-* Destriers don’t fear combat and can be ridden into battle.
-* Palfreys can travel at Fast speed without suffering the usual 1d3 fatigues.
-* Wagons have no suspensions: travel is slow, rough, and only possible by road. 
-
-## Supplies
-You can buy 10 loads of unspecified goods under the same price category and put them in 1 sack. E.g. a sack of common items costs 50 silver and contains 10 loads of common items worth 5 each.
-You can equip a hireling porter with 1 sack of a specific category (food, climbing, light, etc.) to simplify the management of large expeditions.
 </details>
 
 ---
