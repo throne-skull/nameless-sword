@@ -10,6 +10,7 @@ permalink: /saga/
 * Mantoïde : Tu ne peux jamais être surpris. +1 résistance contre les Maléfices.
 * Vermis : +1 en résistance contre la mort
 * Porcoïde : +2 Flesh
+
 ### Connaissance
 Choisir une connaissance, sous la forme d’une question dont tu peux toujours connaître la réponse si tu pourrais raisonnablement l'avoir apprise ou déduite.
 
@@ -17,9 +18,6 @@ Choisir une connaissance, sous la forme d’une question dont tu peux toujours c
 * You can get retainers only from level 2 onward
 * When you test a Characteristic, before the roll you can choose to Push. You make the test with 5-in-6 chance of success. Your Characteristic loses permanently as many points as the result of the d6. If a Characteristic is reduced to 0, you die. 
 * Recovered magic items are worth 1d100 xp each.
-
-# Gifts
-  
 
 ### Dons chaotiques
 
