@@ -48,7 +48,7 @@ On the overworld, the group can advance with an army if it wishes. In the underw
 
 <details markdown="1">
 <summary><b>Inventory</b></summary>
-## Inventory
+
 ### Carrying capacity
 * You have in quick access (Readied) what is in your hands, and 1 load more at your belt
 * You have 4 more loads ready in one action (Worn)
@@ -235,6 +235,12 @@ Weapons
 Two-handed (‡): attacking requires two hands.
 
 Small (↔): Can be used in grapple. Limited to 1 attack per round unless against a similarly short weapon or used in grapple. 
+</details>
+
+---
+
+<details markdown="1">
+<summary><b>Weapons & Armor</b></summary>
 
 Armor
 
