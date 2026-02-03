@@ -27,15 +27,9 @@ Compatible with most OSR/NSR adventures and on the fly conversion.
 That's it. Saves and the like should be obvious enough to also make conversion on the fly.
 
 ### Advices for referees
-[How to speak poetry](https://kattkirsch.bearblog.dev/leonard-cohens-advice-for-osr-referees/)
-[Blorb principles](https://idiomdrottning.org/blorb-principles)
-[Running a game](https://lukegearing.blot.im/running-a-game)
-[New Simulationism](https://samsorensen.blot.im/new-simulationism)
-[Principia Apocrypha](https://www.osr.camp/principia-apocrypha)
+* [How to speak poetry](https://kattkirsch.bearblog.dev/leonard-cohens-advice-for-osr-referees/)
+* [Blorb principles](https://idiomdrottning.org/blorb-principles)
+* [Running a game](https://lukegearing.blot.im/running-a-game)
+* [New Simulationism](https://samsorensen.blot.im/new-simulationism)
+* [Principia Apocrypha](https://www.osr.camp/principia-apocrypha)
 
-### Future updates
-* Bestiary?
-* Weapon traits and armor balance are currently playtested
-* More spells
-* Hexcrawl
-* Setting & sauce
