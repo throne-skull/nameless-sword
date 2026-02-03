@@ -7,7 +7,7 @@ permalink: /equipment/
 # Hirelings
 
 <details markdown="1">
-<summary><b>Hirelings</b></summary>
+<summary><b>Show</b></summary>
 Recruiting hirelings is a downtime action and is always possible unless players have a bad reputation or the settlement is in crisis.
 The group must feed and equip the hirelings. Any money given to them disappears, either spent or sent to their families. 
 
@@ -46,7 +46,7 @@ On the overworld, the group can advance with an army if it wishes. In the underw
 
 # Equipment
 <details markdown="1">
-<summary><b>Equipment</b></summary>
+<summary><b>Show</b></summary>
 ## Inventory
 ### Carrying capacity
 * You have in quick access (Readied) what is in your hands, and 1 load more at your belt
