@@ -4,8 +4,6 @@ title: Exploration
 permalink: /exploration/
 ---
 
-# Exploration
-
 ### Time, space and movement
 An exploration turn lasts around 10 minutes. Most actions take 1 turn, for example:
 * Searching a room or a few corpses

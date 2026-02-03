@@ -12,7 +12,7 @@ permalink: /bestiary/
 * Traits: resistances, vulnerabilities, if any abilities (spellcasting and Mana go there). 
 * Treasure: or valuable organic material that can be harvested, if not obvious.
 
-#### Saves
+### Saves
 Saves for creatures are the same as for player characters. Monsters add 1 to a save chance if their monstrous nature
 could help, or 2 if they have Might 8+. A 6 is always a failure.
 

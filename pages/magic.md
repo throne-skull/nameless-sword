@@ -35,6 +35,8 @@ To cast a spell, you must:
 If you cast a spell without the use of a catalyst, you lose 1 HP.  
 Each Dead Weight you carry is substracted from your Mana regarding spell power and duration.
 
+The target of a spell is often granted a relevant Save as a last chance to escape the power of a spell, but not always. 
+
 ### Mage’s gear (20 silver each)
 * Catalyst (1 load): if you cast a spell without it, you suffer 1 damage.
 * Mana hat (1 load): cast spells as if with Mana +1. Conceals your mana emanation. If you cast spells without it, you may attract unwanted attention from other magic-users and creatures seeking mana sources. 
