@@ -1,5 +1,5 @@
 logo: /assets/img/logo1.png
-description: Classic adventure system reference document
+#description: Classic adventure system reference document
 baseurl: "/nameless-sword"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
