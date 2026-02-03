@@ -4,10 +4,10 @@ title: Equipment
 permalink: /equipment/
 ---
 
-# Hirelings
+## Hirelings
 
 <details markdown="1">
-<summary><b>Show</b></summary>
+<summary><b>Hirelings</b></summary>
 Recruiting hirelings is a downtime action and is always possible unless players have a bad reputation or the settlement is in crisis.
 The group must feed and equip the hirelings. Any money given to them disappears, either spent or sent to their families. 
 
@@ -44,9 +44,10 @@ On the overworld, the group can advance with an army if it wishes. In the underw
 
 ---
 
-# Equipment
+## Inventory
+
 <details markdown="1">
-<summary><b>Show</b></summary>
+<summary><b>Inventory</b></summary>
 ## Inventory
 ### Carrying capacity
 * You have in quick access (Readied) what is in your hands, and 1 load more at your belt
@@ -72,7 +73,7 @@ On the overworld, the group can advance with an army if it wishes. In the underw
 Items in excess of your carrying capacity  are Packed in backpacks and bags. Most items on mounts and porters also are.
 In tense situations, it costs 1 action to search and ready a Worn item, and a whole round to search and ready a Packed item.
 
-## Free space
+### Free space
 Unless a character explicitly loses them, we assume that they always carry:
 * Pockets and up to 2 pocket-sized items (any more takes 1 load),
 * A waterskin, and enough water for the day as long as there is drinking water in the surrounding area,
@@ -80,26 +81,13 @@ Unless a character explicitly loses them, we assume that they always carry:
 
 They are not counted as load.
 
-## Depletion
+### Depletion
 Each significant use marks an X in the resource. This is called depletion.  
 A resource has three possible states: sufficient, almost exhausted (X), exhausted (XX). An item is intact, damaged (X) or destroyed (XX).  
 1 item = two depletions to destroy.  
 1 load of resource = two depletions to exhaust. 
 One-use resources are exhausted instantly (e.g. potions).  
 
-## Economy
-### Currency
-Silver, either coins or hacksilver. 
-### Price categories
-Basic < Common < 10 < Precious < 25+
-Fall back on this to keep shopping quick.
-### Resale
-Players can resold items at half price.
-Treasures can be resold at full price, but you need to find someone rich enough to buy.
-Purchase and resale prices may vary according to location and circumstances. 
-### Repair
-Depleted but not broken items are automatically repaired for free in Downtime as part of the upkeep cost.
-Broken items you carried home can be repaired: it costs as much as one price category lower than the original price of the item.
 </details>
 
 ---
@@ -135,6 +123,26 @@ You can equip a hireling porter with 1 sack of a specific category (food, climbi
 ---
 
 ## Items
+
+<details markdown="1">
+<summary><b>Economy</b></summary>
+
+### Currency
+Silver, either coins or hacksilver. 
+### Price categories
+Basic < Common < 10 < Precious < 25+
+Fall back on this to keep shopping quick.
+### Resale
+Players can resold items at half price.
+Treasures can be resold at full price, but you need to find someone rich enough to buy.
+Purchase and resale prices may vary according to location and circumstances. 
+### Repair
+Depleted but not broken items are automatically repaired for free in Downtime as part of the upkeep cost.
+Broken items you carried home can be repaired: it costs as much as one price category lower than the original price of the item.
+</details>
+
+---
+
 <details markdown="1">
 <summary><b>List</b></summary>
 
