@@ -67,14 +67,14 @@ You swim and climb at half speed. Rough terrain also halve your speed. If your a
 
 <details markdown="1">
 <summary><b>Chance to hit and armor reference</b></summary>
+
 | AC | 9-8 | 7-5 | 4-3 | 2 |
 |------|:-----:|:-----:|:-----:|:----:|
 | Ascending | 10-11 | 12-14 | 15-16 | 17 |
 | Armor rating | 0 | 1 | 2 | 3 |
 | Chance to hit this armor | 4-in-6| 3-in-6 | 2-in-6 | 2-in-6 Melee, 1-in-6 Missile |
 | Type | None, gambeson, helmet| Mail / Shield / Lamellar | Mail + Shield / Mail + Lamellar / Lamellar + Shield | Mail + Lamellar + Shield |
-    <details markdown="1">
-    <summary><b>Helmet, gambeson, shield</b></summary>
+
 #### Helmet, gambeson
 Sacrifice one to cancel a Wound (but the damage stay) before it is rolled or to reduce by 1 the number of Flesh you should lose if you are down to your last HP. _e.g. You should lose 1d6 Flesh, instead you lose 1d6-1 flesh._
 
@@ -86,8 +86,9 @@ When you should lose your last HP and start losing Flesh, sunder your shield to 
 For NPC: when they should die, their shield is sundered and they get 2-in-6 chance to survive with 1 HP. Treat NPC with AC 6, 4 and 2 as having a shield.
 
 Shields from defeated fighters have a 2-in-6 chance of not being broken.   
-    </details>
 </details>
+
+---
 
 ### Melee attacks
 
