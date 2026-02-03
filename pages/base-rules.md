@@ -106,6 +106,7 @@ Each save rates the chances of success on 1d6 to avoid the threat.
 There are two types of threat.
 * Those that inflict damage: Roll once for each damage, each success prevents one damage.
 * Those that have a binary effect, suffered entirely on a failure or not at all on a success: Roll once.
+
 When in doubt between two saves, use the one most advantageous to the character.
 
 ---

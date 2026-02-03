@@ -1,36 +1,23 @@
 ---
 layout: page
-title: other
-permalink: /other other/
+title: campagne
+permalink: /campagne/
 ---
 
-Peuple
-Humain : +1 compétence
-Mantoïde : Tu ne peux jamais être surpris. +2 résistance contre les Maléfices.
-Vermis : +2 en résistance contre la mort
-Porcoïde : tu peux ranger deux conditions par emplacement d'inventaire.
+### Peuple
+* Humain : +1 compétence
+* Mantoïde : Tu ne peux jamais être surpris. +1 résistance contre les Maléfices.
+* Vermis : +1 en résistance contre la mort
+* Porcoïde : +2 Flesh
 
 Connaissance
 Choisir une connaissance, sous la forme d’une question dont tu peux toujours connaître la réponse si tu pourrais raisonnablement l'avoir apprise ou déduite.
 
 
-
-
-
-### Crits and helmets
-Crits apply both to PCs and NPCs. Critical hits do not affect creatures with Supernatural HP.
-A result of 1 on an attack die is a Critical. It deals 2 damages and a Wound.  
-* If you wear a helmet, criticals only deal you 1 damage and a wound. You can sacrifice your helmet to totally cancel a critical if you do so before the Wound is rolled. 
-* If you wear a helmet, you are surprised on a 3-in-6 chance (instead of 2). 
-* NPC keep their helmets. 
-
 # Experimental rules
 
-* Landing a crit depletes your weapon
-* Suffering a Wound depletes a random armor rank (other than shield). If one armor is already depleted but not broken, it depletes it in priority.
 * You can get retainers only from level 2 onward
 * When you test a Characteristic, before the roll you can choose to Push. You make the test with 5-in-6 chance of success. Your Characteristic loses permanently as many points as the result of the d6. If a Characteristic is reduced to 0, you die. 
-* An NPC at exactly 0 HP has 2-in-6 chance to survive, mutilated.
 * 
 
 * Recovered magic items are worth 1d100 xp each.
@@ -51,9 +38,9 @@ Greatsword: deal +1 damage on a critical. If you have priority, treat target arm
 # Gifts
 Chaque don commence à 5. Chaque fois que tu l'utilises, tu as autant de chances sur 6 de pouvoir encore l'utiliser. Autrement il est perdu pour la journée. 
 
-Chaque fois que tu utilises un don, enlève 1 de façon permanente de son score à moins d'accepter autant de points de corruption que le score qu'il te reste.
-Chaque fois que tu utilises un don, tu as autant de chances que ta corruption sur 100 de subir une mutation aléatoire, qui peut aller de positive à mortelle.
-Tu peux recharger ton score à 5 à tout moment en échange de doubler ta corruption ou en subir 10 (selon ce qui est le plus élevé). 
+Chaque fois que tu utilises un don, enlève 1 de façon permanente de son score à moins d'accepter autant de points de corruption que le score qu'il te reste.  
+Chaque fois que tu utilises un don, tu as autant de chances que ta corruption sur 100 de subir une mutation aléatoire, qui peut aller de positive à mortelle.  
+Tu peux recharger ton score à 5 à tout moment en échange de doubler ta corruption ou en subir 10 (selon ce qui est le plus élevé).   
 
 ça c'est pour un don du Chaos. Des dons de l'Ordre sont plus stables. 
 

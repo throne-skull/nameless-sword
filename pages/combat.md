@@ -13,7 +13,7 @@ With surprise you can perform one round of actions unanswered and you have +1 ch
 At the start of each round, roll 1d6 to determine the priority. 1-3 PCs, 4-6 opponents (context might change the odds). The phases are resolved simultaneously for each group, by priority within each phase.  
 Side A Opening then side B Opening, side A Melee then side B Melee, etc.  
 Members of the same side can act in any order they wish between themselves. Actions are resolved as they are declared.  
-All combat occurs simultaneously; casualties are marked, but not removed from the tabletop until all fighting this phase is done. A fataly wounded fighter can still finish their action or attacks in the same phase (simultaneous action, if you kill a fighter, they may still kill you in the same phase). 
+All combat occurs simultaneously; casualties are marked, but not removed from the tabletop until all fighting this phase is done (if you kill a fighter, they may still kill you in the same phase).  
 
 ### Phases
 Each phase lists the possible actions within it. 
@@ -80,7 +80,7 @@ Attacks are simultaneous unless one side:
 * Attacks on the flank
 * Attacks on the rear
 
-In this case, the side with advantage has First Strike: your attacks are resolved first in the melee phase, and enemies you kill are eliminated immediately, before the end of the phase (they lose their action and can’t strike back).
+In this case, the side with advantage has First Strike: your attacks are resolved first in the melee phase, and enemies you kill are eliminated immediately (they lose their action and can’t strike back).
 
 You can forgo all your attacks in the melee phase to:
 * Gain +1 armor this round, but deplete your weapon or shield
@@ -101,7 +101,7 @@ You can forgo all your attacks in the melee phase to:
 
 ### Ranged attacks
 You can only make one ranged attack per round, unless specified otherwise by the weapon or an ability.
-* You must be out of melee range and your ammo must be Readied (in hand or belt) ?
+* You must be out of melee range and your ammo must be Readied (in hand or belt). 
 * Unless you use a bow, you must allocate attacks to the same target.  
 * If you don't aim for the nearest target, you have -1 chance to hit. If there is several ranks of enemies and you don't shoot from high ground, you can only aim up to the second rank, others are screened by the ranks in front of them.
 
@@ -117,7 +117,7 @@ The closest ally is hit instead if you get a 6, they take 1 damage.
 Crits apply both to PCs and NPCs. Critical hits do not affect creatures with Supernatural HP.  
 A result of 1 on an attack die is a Critical. It deals 1 damage and a Wound.  
 * When you land a crit on an enemy with more Might than you have levels, deplete your weapon.
-* When you suffer a crit, deplete your armor.  
+* When you suffer a Wound, deplete your armor.  
 
 ### Attacking to subdue
 Declare before attacks. -1 chance to hit. If you reduce the target to exactly 0 HP (no excessive damage), you subdue them. Otherwise they die as usual.
@@ -139,7 +139,6 @@ To fighters not in the grapple, you are both treated as prone (even standing) an
 
 Several people can join force in a grapple against the same target, add up together all their d6 (as many as their attacks). 
 
-
 ### Vanquish
 An NPC who reaches 0 HP is slain at the end of the current phase. They can still act in this phase (simultaneous action).   
 Hits are opportunistic and aim for the highest lethality. If you want to shoot them in the eye, it’s just a normal attack and unless you reduce them to 0 HP, you don’t achieve this outcome.  
@@ -148,9 +147,9 @@ If you manage to get close enough a target while they are unaware, and you can e
 
 ### Formal Duel
 As with rock-paper-scissors, duelists must simultaneously declare their technique for the round between Parry, Assault and Feint. The winner gets a bonus for the round.
-* Parry beats Assault : +1 armor rating
-* Assault beats Feint : +1 Attack
-* Feint beats Parry : +1 chance to hit
+* Parry beats Assault: +1 armor rating
+* Assault beats Feint: +1 Attack
+* Feint beats Parry: +1 chance to hit
 * Same: both get the bonus as if they had won.
 
 ## Morale
@@ -184,8 +183,6 @@ Modifiers:
 * Size +/- 1
 * Side with the most things to fear +/- 2
 
-
-
 ### End of Combat
 A fight lasts at least 10 minutes (1 exploration turn), the time it takes to fight, regroup, breathe, patch wounds, etc.
 
@@ -202,23 +199,18 @@ You only have 1 action per round, in the Opening phase. Basically you can only c
 * **Nemesis**: A creature that kills a PC immediately gains +1 Might (+1 HP, +1 attack).
 
 ## Wounds
-Wounds caused by critical hits are temporary and last until a week of full rest. 
-
-Wounds suffered by damage to Flesh are permanent (you can heal the wound and free inventory, but the penalty of the Wound remains).
-
-Whatever the wound type, it fills one inventory slot until a week of full rest.
+Each wound fills one inventory slot until a week of full rest. The penalty of temporary wounds then disappear. The penalty of permanent wounds linger foverer. For each permanent wound you have, after they healed from your inventory, add 1 permanently to the total of your Flesh. 
 
 If you would get twice the same temporary Wound, take the next result.
 
 If you would get twice the same permanent Wound, instead you lose some non-essential bits of yourself (an ear, a finger, a toe, the tip of the nose, teeth, bit of lips, big scar on the face or the skull where hair won't regrow, etc).
 
-For each permanent wound you have, after they healed from your inventory, add 1 permanently to the total of your Flesh. 
 
 | 1d10 | Wound |
 |-----|-------|
 | 1 | Shoulder: your crits don't inflict a Wound|
 | 2| Arm: -1d to grapple|
-|3| Knee: -2 movement spaces (also apply as penalty in Capture for chases)|
+|3| Knee: -2 speed|
 |4| Leg: -1 chance to succeed tests of Agility|
 |5| Guts: -1 chance to succeed tests of Vigor|
 |6| Head: -1 chance to succeed tests of Finesse|

@@ -101,11 +101,12 @@ One-use resources are exhausted instantly (e.g. potions).
 | Heavy wagon, requires 6 draft animals	| 160 |	24 |
 
 ### Mounts
-Mules have good stamina and can thrive on less nutritious pasture than horses.
-Horses are fast enough to escape many monsters. You can even ride a laden horse in an ermegency (escaping from a wandering encounter). However, they need good pasture or rations (1 load per day of feeding) to keep going.
-Destriers don’t fear combat and can be ridden into battle.
-Palfreys can travel at Fast speed without suffering the usual 1d3 fatigues.
-Wagons have no suspensions: travel is slow, rough, and only possible by road. 
+* Mules have good stamina and can thrive on less nutritious pasture than horses.
+* Horses are fast enough to escape many monsters. You can even ride a laden horse in an ermegency (escaping from a wandering encounter). However, they need good pasture or rations (1 load per day of feeding) to keep going.
+* Destriers don’t fear combat and can be ridden into battle.
+* Palfreys can travel at Fast speed without suffering the usual 1d3 fatigues.
+* Wagons have no suspensions: travel is slow, rough, and only possible by road. 
+
 ## Supplies
 You can buy 10 loads of unspecified goods under the same price category and put them in 1 sack. E.g. a sack of common items costs 50 silver and contains 10 loads of common items worth 5 each.
 You can equip a hireling porter with 1 sack of a specific category (food, climbing, light, etc.) to simplify the management of large expeditions.
