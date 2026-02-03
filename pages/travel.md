@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other
-permalink: /other/
+title: Travel
+permalink: /travel/
 ---
 
 # Travel
