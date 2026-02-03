@@ -145,10 +145,10 @@ A result of 1 on an attack die is a Critical. It deals 1 damage and a Wound.
 * When you suffer a Wound, deplete your armor.  
 
 ### Attacking to subdue
-Declare before attacks. -1 chance to hit. If you reduce the target to exactly 0 HP (no excessive damage), you subdue them. Otherwise they die as usual.
+Declare before attacks. -1 chance to hit. If you wish, you can perform fewer attacks than you could. If you reduce the target to exactly 0 HP (no excessive damage), you subdue them. Otherwise they die as usual.
 
 ### Grappling
-Instead of attacking directly, you can attempt a grappling. Grapplers roll as many d6 as their number of attacks against one another, with the highest total controlling the grapple.
+In the melee phase, instead of attacking directly, you can attempt a grappling. Grapplers roll as many d6 as their number of attacks against one another, with the highest total controlling the grapple.
 
 If winning a grapple, choose one:
 * Throw or dismount your opponent, they are prone.

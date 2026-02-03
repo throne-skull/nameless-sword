@@ -92,6 +92,24 @@ Normal: not faster, but you don’t tire as much.
 Fast: +1 speed. The mount suffers 1d3 Fatigues.
 To death: +2 speed. Roll 1d6 per turn: the horse  suffers as much Fatigues and dies on 5-6. After the ride, roll another d6: on 5-6, the horse goes lame.
 
+
+### Camp (1 day turn)
+After 2 day turns of activity, you need to rest for 1 day turn. If you don’t, until you rest you get 1 fatigue at the start of each day turn.
+Requirements
+To benefit from camp, you need to be protected from extreme temperatures and inclement weather. 
+Thirst and hunger
+If you have not eaten a ration worth of food today, mark 1 hunger in your inventory, +1 per previous day of ongoing hunger. If you haven’t been drinking, mark 1 thirst.
+Fire
+You can combine 2 loads / 4 depletions worth of torches into a campfire lasting 1 day turn as long as someone remains near it. It casts light and heat out to 3 spaces.
+Safety
+By default there is 2-in-6 chance of encounter by day turn spent in camp in dangerous wilderness or in dungeon. A hidden or fortified location may change these odds.
+If something happens during rest, determine at random who is on watch at the time.
+Having to flee, fight, or alter the camp ruins the rest.
+Successful camp
+After each day turn spent resting, each character can erase 1 fatigue. After a rest, but  only once per day, you can equip your spells.
+Full day of rest
+If you rest for three consecutive day turns (24 hours), you recover 1 HP.
+
 ### Escape and chase
 #### Wilderness
 A failure indicates evaders are caught within the same day turn, and a success that they put 1 day turn between them and pursuers. Either way, evaders are likely to get lost.

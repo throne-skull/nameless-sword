@@ -141,16 +141,12 @@ Scouting: any member 1 room or more away from the rest of the party can roll sur
 Expecting: if one side has already spotted the other, it automatically gains Surprise.  
 
 #### Distance
-Dungeon: 1 to 4 rooms away, what makes the most sense
-Wilderness: 4d6 x 10 meters  
-Wilderness, surprise: 1d4 x 10 meters  
+* Dungeon: 1 to 4 rooms away, what makes the most sense
+* Wilderness: 4d6 x 10 meters  
+* Wilderness, surprise: 1d4 x 10 meters  
 
 #### Numbers
-To determine the total combined Might of the monsters encountered:
-* In the wilderness, roll 2d20. 
-* In dungeons, roll 1d6 * current dungeon level. 
-
-Divide the total per the Might of the creature to obtain the number appearing. If there is Might left to distribute, it goes to pump the leader. If total Might obtained is not enough for the type of monster encountered, that means the monster is weakened by another battle, sick, or weak for its kind. 
+Each encounter entry detail how many of the creatures are encountered at once.
 
 ### Reaction Roll
 Creatures always attack if they have the advantage of surprise. Otherwise if not obvious, roll 1d6 to determine the initial attitude, which is only modified by non-verbal biases such as signs of affiliation by +/- 1.  
