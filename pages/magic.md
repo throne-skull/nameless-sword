@@ -12,18 +12,8 @@ Each spell exists as an individual entity and cannot be copied, only moved. You 
 You can prepare as many spells as your Mana, but only one spell per night. Each spell can be cast once, then it needs to be prepared again. If you own twice or more the same spell, each multiple is treated as a separate, individual spell.
 * If you wear a witch hat (1 load), you cast spells as if with Mana +1.
 
-There is no limit to the number of spells you can own. To own new spells, you must rely on the Maleficar trait or find them in adventure or through teachers or the skulls of dead mages.
+There is no limit to the number of spells you can own. To own new spells, you must find them in adventure or through teachers or the skulls of dead mages.
 * If you focus near the skull of a freshly dead mage, you have 2-in-6 chance per spell they had to steal the spell before it vanishes in the wild.  
-
-To cast a spell, you must:
-* be out of melee range
-* have it prepared
-* not be overloaded
-* speak high, make incantatory gestures
-* see the target unless specified otherwise
-* have one hand free or holding a catalyst
-If you cast a spell without the use of a catalyst, you lose 1 HP.  
-Each Dead Weight you carry is substracted from your Mana regarding spell power and duration.
 
 As for now, duration, range and the spell list are based [on this post from Press the Beast](https://pressthebeast.bearblog.dev/nathequest-2026-normal-spell-system-new-new-new/). 
 
@@ -36,6 +26,14 @@ Conversion from the blog post:
 * Caster level = caster Mana
 * 1d6 damage = 1 damage
 
+To cast a spell, you must:
+* be out of melee range
+* have it prepared
+* not be overloaded
+* speak high, make incantatory gestures
+* have one hand free or holding a catalyst
+If you cast a spell without the use of a catalyst, you lose 1 HP.  
+Each Dead Weight you carry is substracted from your Mana regarding spell power and duration.
 
 ### Mage’s gear (20 silver each)
 * Catalyst (1 load): if you cast a spell without it, you suffer 1 damage.

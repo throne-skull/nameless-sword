@@ -38,6 +38,7 @@ Each character gets 1 action per downtime.
 * New languages, auxiliary skills (cooking, riding giant lizards...), ... The Referee sets how many downtime actions it takes to learn the thing, keep track of its progression.
 * Characteristic: you need a teacher. Pay them your level * 5 silver, choose one characteristic and roll 1d20 at the end of the week. If the result is higher than the trained characteristic, it improves by 1. Otherwise you suck, try again next week.
 * Spells: you need to find a mage who has duplicate spells or spells they don't use. They can typically sell them to you for 100 silver per spell.
+
 #### Recruit hirelings
 You spread the word that you want to recruit people, you meet them and you brief them.
 #### Other

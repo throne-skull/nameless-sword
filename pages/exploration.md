@@ -52,8 +52,8 @@ If you manage to get close enough a target while they are unaware, and you can e
 Attacking an alert target while you are unseen is a normal attack with Surprise rather than a deathblow.
 
 ### Light
-A single source of light is sufficient to see the coarse features of a typical room, but the details require closer inspection. Each inspection requires a separate light source to be carried out in parallel.
-When players extinguish a source of light, it depletes it.
+A single source of light is sufficient to see the coarse features of a typical room, but the details require closer inspection. Each inspection requires a separate light source to be carried out in parallel.  
+In the underworld, when players extinguish a source of light, it dies (you need to replace it). _No clever light on/off to escape light attrition_.
 * A torch lasts 3 turns and lights well. It does not goes out easily, even in movement or if it is dropped.
 * A lantern with a candle lasts 6 turns and lights dimly. It goes out easily, especially with quick movement or if it is dropped (4-in-6 chance).
 
@@ -120,7 +120,9 @@ If it is a face or ace, something happens:
 Each face and ace card should have a specific entry in the dungeon tables.  
 Any other card means either nothing happens or you can key specific events to them.  
 #### Light
-Every 3 cards, the group depletes all active lights.
+* Every 3 cards, torches are exhausted.
+* Every 6 cards, lanterns are exhausted.
+
 #### Noise
 If the group is making noise or attracting attention in any way, draw an extra card each time (to see if they attract an encounter), but put it aside, it doesn’t count towards elapsed time and light consumption.
 #### Omen or Dungeon Event
