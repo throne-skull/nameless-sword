@@ -100,7 +100,7 @@ Reduce by half if standing or carrying Dead Weight (if both, halve then halve ag
 ### Falling
 * 2 meters or less: no damage.
 * 3 to 6 meters: you lose 1 HP.
-* 7 to 12 meters: you are reduced to 0 HP (save against death).
+* 7 to 12 meters: save against Death. Failure means death. Success: you have 1 HP and a Wound. 
 * 13+ meters: death.
 
 Falling while secured by a rope and anchor point: height is based on lenght of the rope from the anchor point. The climber still take damage as above due to shock absorption. 1-in-6 chance that the anchor point will give away, 2-in-6 if climbing on ice or a particularly brittle material.

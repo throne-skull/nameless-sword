@@ -3,6 +3,7 @@ layout: page
 title: Downtime
 permalink: /downtime/
 ---
+
 Upkeep : level * 2. 
 
 Carousing
