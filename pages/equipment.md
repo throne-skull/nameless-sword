@@ -164,6 +164,8 @@ Broken items you carried home can be repaired: it costs as much as one price cat
 
 </details>
 
+---
+
 <details markdown="1">
 <summary><b>Sacks, supplies & Transport</b></summary>
 
@@ -190,8 +192,9 @@ Broken items you carried home can be repaired: it costs as much as one price cat
 ## Supplies
 You can buy 10 loads of unspecified goods under the same price category and put them in 1 sack. E.g. a sack of common items costs 50 silver and contains 10 loads of common items worth 5 each.
 You can equip a hireling porter with 1 sack of a specific category (food, climbing, light, etc.) to simplify the management of large expeditions.
-
 </details>
+
+---
 
 <details markdown="1">
 <summary><b>Weapons & Armor</b></summary>
