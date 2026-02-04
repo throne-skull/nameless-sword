@@ -47,7 +47,7 @@ On the overworld, the group can advance with an army if it wishes. In the underw
 ## Inventory
 
 <details markdown="1">
-<summary><b>Inventory</b></summary>
+<summary><b>Inventory, depletion</b></summary>
 
 ### Carrying capacity
 * You have in quick access (Readied) what is in your hands, and 1 load more at your belt
@@ -95,7 +95,6 @@ One-use resources are exhausted instantly (e.g. potions).
 <details markdown="1">
 <summary><b>Sacks, supplies & Transport</b></summary>
 
-## Sacks & Transport
 1 sack is 10 loads of items. 
 
 | Mounts & Wagons |	Price	| Sacks capacity |
@@ -115,7 +114,7 @@ One-use resources are exhausted instantly (e.g. potions).
 * Palfreys can travel at Fast speed without suffering the usual 1d3 fatigues.
 * Wagons have no suspensions: travel is slow, rough, and only possible by road. 
 
-## Supplies
+### Supplies
 You can buy 10 loads of unspecified goods under the same price category and put them in 1 sack. E.g. a sack of common items costs 50 silver and contains 10 loads of common items worth 5 each.
 You can equip a hireling porter with 1 sack of a specific category (food, climbing, light, etc.) to simplify the management of large expeditions.
 </details>
@@ -205,7 +204,7 @@ Broken items you carried home can be repaired: it costs as much as one price cat
 ---
 
 <details markdown="1">
-<summary><b>Weapons & Armor</b></summary>
+<summary><b>Weapons</b></summary>
 
 Weapons
 
@@ -240,7 +239,7 @@ Small (↔): Can be used in grapple. Limited to 1 attack per round unless agains
 ---
 
 <details markdown="1">
-<summary><b>Weapons & Armor</b></summary>
+<summary><b>Armor</b></summary>
 
 Armor
 
