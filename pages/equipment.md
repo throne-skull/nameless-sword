@@ -262,14 +262,13 @@ Armor
 | Type | None, gambeson, helmet| Mail / Shield / Lamellar | Mail + Shield / Mail + Lamellar / Lamellar + Shield | Mail + Lamellar + Shield |
 
 #### Helmet, gambeson
-Sacrifice one to cancel a Wound (but the damage stay) before it is rolled or to reduce by 1 the number of Flesh you should lose if you are down to your last HP. _e.g. You should lose 1d6 Flesh, instead you lose 1d6-1 flesh._
+Each adds 1 to your Death save against fatal injuries (when you are reduced to 0 HP).  
+Sacrifice one to cancel a Wound (you still suffer the damage) before it is rolled. 
 
 #### Shield
-When you should lose your last HP and start losing Flesh, sunder your shield to make a Save against Death.
-* If you fail, reduce by 1 the number of Flesh you should lose.
-* If you succeed, your shield absorbs all remaining damage and you are left with 1 HP but no loss of Flesh.
-
-For NPC: when they should die, their shield is sundered and they get 2-in-6 chance to survive with 1 HP. Treat NPC with AC 6, 4 and 2 as having a shield.
+When attacks are declared, but before they are resolved, you can sacrifice your shield. This cancels 1 damage if you’re hit. You sacrifice your shield even if no attack hits you (you over-block strikes that aren’t as threatening as you thought).
+* In duels, NPC can sunder their shield exactly as a PC would
+* Outside of duels, NPCs with shield sunder it for a 2-in-6 chance to survive if they fall exactly at 0 HP
 
 Shields from defeated fighters have a 2-in-6 chance of not being broken.   
 

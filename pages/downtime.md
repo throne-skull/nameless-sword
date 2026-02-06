@@ -51,7 +51,7 @@ Effects only apply at the end of Downtime.
 * You heal 1 Wound per Downtime.
 * You recover all HP and Flesh, and erase all fatigues.
 * You will probably be able to delete several conditions (hunger, thirst...)
-* You can prepare one spell per night, so 7 if you haven't used them while in downtime.
+* You can prepare one spell per night, so up to 7 if you haven't used them while in downtime and you have the required Mana level.
 
 
 

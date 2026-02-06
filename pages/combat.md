@@ -56,9 +56,9 @@ The side without priority declares its movement, and the side with priority can 
 #### Space
 1 space = 10 feet or 3 meters in the game world = 1 square in classic dungeon maps = 1’’ at the table with a ruler.
 #### Speed
-Human speed is 6 minus Dead Weight.  
-You can move up to your speed in one action. You may pass through allies if there is enough space, but not enemies.  
-If you start the Opening phase outside of melee range, you may move up to twice your speed.  You may try to evade the combat (see Encounters, Chase).   
+Basic speed is 6 for most humans; you can use your success chance on Agility tests as you speed. Substract your Dead Weight from your speed.  
+You can move up to your speed in one action. You may pass through allies if there is enough space, but not enemies. 
+If you start the Opening phase outside of melee range, you may move up to twice your speed.  You may try to evade the combat (see Encounters, Chase).    
 If you are in melee range, you can only move closer to the enemy unless you disengage and retreat.  
 To disengage and retreat from melee, you have to forgo all other actions this round and can move up to your speed away from the melee.   
 You swim and climb at half speed. Rough terrain also halve your speed. If your are Slow, halve your base speed. Minimum speed is 1.  
@@ -148,7 +148,7 @@ A result of 1 on an attack die is a Critical. It deals 1 damage and a Wound.
 Declare before attacks. -1 chance to hit. If you wish, you can perform fewer attacks than you could. If you reduce the target to exactly 0 HP (no excessive damage), you subdue them. Otherwise they die as usual.
 
 ### Grappling
-In the melee phase, instead of attacking directly, you can attempt a grappling. Grapplers roll as many d6 as their number of attacks against one another, with the highest total controlling the grapple.
+In the melee phase, instead of attacking directly, you can attempt a grapple. Grapplers roll as many d6 as their number of attacks against one another, with the highest total controlling the grapple.
 
 If winning a grapple, choose one:
 * Throw or dismount your opponent, they are prone.
@@ -214,24 +214,25 @@ A fight lasts at least 10 minutes (1 exploration turn), the time it takes to fig
 # Health
 ## Hit Points (HP)
 A damage is something that could kill someone. Each damage removes 1 HP. If you have more than 1 HP, you can survive things that would kill a lesser being. Damage is mostly cosmetic for a character until they lose all their HP, at which point their life is in danger.
-### Flesh
-Your last HP is your Flesh. For each damage you suffer that should reduce you below 1 HP, roll 1d6 instead and substract the result from your Flesh. If your Flesh is reduced to 0, you die. Otherwise, you survive but are down and dying, and must roll 1d20: on 1-10, receive the relevant temporary wound; on 11-20, receive a permanent Wound (substract 10 to the result to know which one).
+
+### Save against death
+If your character’s HP is reduced to 0, you must make a save against Death: if you fail, you die. Otherwise you survive with a Wound, roll 1d20: on 1-10, receive the relevant temporary wound; on 11-20, receive a permanent Wound (substract 10 to the result to know which one). If alive, you are knocked to the ground and _dying_.
 #### Dying
-You only have 1 action per round, in the Opening phase. Basically you can only crawl, cry for help or try to patch yourself.  After the first round you started dying, at the end of each round you must Save against Death or die. 
+You will die at the end of 2 rounds following the one in which you started dying, unless stabilized. If you suffer further damage while at 0 HP, you die. As long as you are dying, you are prone and only have 1 action per round, in the Opening phase. Basically you can only crawl, cry for help or try to patch yourself. 
 * **First aid**: Finesse test (Very hard if you try on yourself). Success: patient stabilised. Failure: a turn spent for nothing. Multiple attempts possible, but only 1 per round. Several healers can act together. Deplete bandages to reduce difficulty (auto success if you help someone else, normal test if you try on yourself). 
-* **Stabilized**: The character is no longer dying, can get up the next round and act "normally" as far as their wounds allow.
+* **Stabilized**: The character is no longer dying, can get up the next round and act "normally" as far as their wounds allow. They are still at 0 HP and die with any damage. Only rest can put HP back. 
 * **Death**: When your character dies, create a new one or take control of a hireling. They quickly join the party.
 * **Nemesis**: A creature that kills a PC immediately gains +1 Might (+1 HP, +1 attack).
 
 ## Wounds
-Each wound fills one inventory slot until a week of full rest. The penalty of temporary wounds then disappear. The penalty of permanent wounds linger foverer. For each permanent wound you have, after they healed from your inventory, add 1 permanently to the total of your Flesh. 
+Each wound fills one inventory slot and reduce your maximum HP by 1 until a week of full rest. The penalty of temporary wounds then disappear. The penalty of permanent wounds linger foverer. 
 
 If you would get twice the same temporary Wound, take the next result.
 
 If you would get twice the same permanent Wound, instead you lose some non-essential bits of yourself (an ear, a finger, a toe, the tip of the nose, teeth, bit of lips, big scar on the face or the skull where hair won't regrow, etc).
 
 
-| 1d10 | Wound |
+| 1d10 | Wound and penalty|
 |-----|-------|
 | 1 | Shoulder: your crits don't inflict a Wound|
 | 2| Arm: -1d to grapple|

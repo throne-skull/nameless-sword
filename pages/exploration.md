@@ -106,7 +106,7 @@ Falling while secured by a rope and anchor point: height is based on lenght of t
 Falling in water: under 20 meters no damage. Up to 30 meters, lose 1 HP. Beyond, save against Death. The depth of the water must be at least equal to half the height of the fall to not crush yourself at the bottom. 
 
 ### Drowning
-A character must save against Capture every minute, and drowns if they fail.
+Typically one test per minute in water to keep swimming without drowning.
 
 # Referee side
 ## The Grind
@@ -172,13 +172,13 @@ Each creature has its own Disposition which affects the way they approach the si
 * Organized retreat: use the lowest speed of the group.
 * To each their own: individual results.
 
-Substract the Speed of the pursuers to the Speed of the evaders. The remaining value is the chance in 6 to escape for the fleeing party, modified by:
+Substract the Speed of the pursuers to the Speed of the evaders. The remaining value is the modifier used on the success chance of an Agilyty test. Also add:
 * +1 for dropping something of interest for pursuers (food, treasure...), if they care
 * +1 for each obstacle used favoring the evaders (corners, traps, oil, caltrops, off-road trails...)
 
 If you fail, you are caught and the enemy can perform a round of action against you as if it had surprise. You may flee again after if possible.
 
-* The chance in 6 to escape is aIso the number of rooms the evaders can pass through before being caught on a failure, or the number of rooms they put between them and pursuers on a success.  
+* The chance to escape is aIso the number of rooms the evaders can pass through before being caught on a failure, or the number of rooms they put between them and pursuers on a success.  
 * Fleeing is done at Fast speed as for exploration movement.  
 * If your pursuer doesn’t know where you are, it will search at reandom for a few rooms. 
 

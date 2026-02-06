@@ -13,12 +13,14 @@ permalink: /bestiary/
 * Treasure: or valuable organic material that can be harvested, if not obvious.
 
 ### Saves
-Saves for creatures are the same as for player characters. Monsters add 1 to a save chance if their monstrous nature
-could help, or 2 if they have Might 8+. A 6 is always a failure.
+Saves for creatures are the same as for player characters. If their monstrous nature could help:
+* Fast monsters add 2 to their Capture save
+* Tough monsters add 2 to their Death save
+* Magical monsters add 3 to their Witchcraft save
 
 ### Traits
 * Weak to X: If you attack them with X, you get +1 attack.
-* Resists X: +1 armor/save against X.
+* Resists X: +2 armor/save against X.
 * Immune to mundane weapons: Traditionally, some creatures can only be harmed by magic weapons or spells. In this game, they can also be harmed by silver weapons (four times the price). Everyone knows this. Silver weapons break after a single depletion and suffer depletion on a roll of 6 on the attack die if used against foes not vulnerable to silver.
 * [Supernatural HP](https://necropraxis.com/2018/09/11/supernatural-magnitude/): when you deal damage to this creature, you have only 1-in-6 chance to actually deal damage, otherwise the damage is cancelled.
 
