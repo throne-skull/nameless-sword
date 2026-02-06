@@ -21,10 +21,10 @@ Choose two Skills.
 | Vigor | Agility | Finesse |
 |:-----:|:-------:|:-------:|
 |Strength (bash/lift) | Jumping/running| Thievery (traps, locks, pickpocket)|
-|Endurance (forced march, swimmming)| Balance (rope, horse riding, dance)| Bushcraft |
+|Endurance (forced march, swimming)| Balance (rope, horse riding, dance)| Bushcraft |
 |Climbing | Stealth| Healing (first aid, cures)|
 
-** Knowledge**. Write 1 question on your character sheet. You can always know the answer to it if you could reasonably have intuited or learned it. 
+**Knowledge**. Write 1 question on your character sheet. You can always know the answer to it if you could reasonably have intuited or learned it. 
 
 There are three Saves:
 * **Capture**: 6-Dead Weight. Used against area effects, paralysis, sleep, petrification, blindness, being tied up (trick the one who binds you into believing he has the right constraint and untie yourself later), telekinesis, metamorphosis, some traps, wands, rays. 
