@@ -28,7 +28,7 @@ Choose two Skills.
 
 There are three Saves:
 * **Capture**: 6-Dead Weight. Used against area effects, paralysis, sleep, petrification, blindness, being tied up (trick the one who binds you into believing he has the right constraint and untie yourself later), telekinesis, metamorphosis, some traps, wands, rays. 
-* **Death**: 5. Used against deadly falls, disease, poison, and when sundering your shield.
+* **Death**: 5. Used against deadly falls, disease, poison, and when facing death at 0 HP.
 * **Witchcraft**: 2 + ritual warding (if any, and only temporary). Used against spells who bypass the other saves, curses and mind-altering effects. Base ward is 0. Make a sacrifice and smear blood from it on yourself to gain +1 to +4 warding according to size and rarity of the sacrifice, until the next sunrise.
 
 There are three Attributes:
@@ -85,7 +85,7 @@ The players are free to discuss and plan any course of action, with the Referee 
 ### Group action
 When everyone joins the same action and it needs a test, everyone rolls. If there is more failures than successes, everyone fails. Otherwise, everyone succeeds. All participants are subject to the stakes.
 ### Opposed action
-Succeed on 3-in-6 if you are roughly equals. Slide up or down otherwise. 
+Succeed on 6-in-12 if you are roughly equals. Slide up or down otherwise. 
 ### Secret & just-in-time roll
 If the knowledge of the outcome impacts the situation, the Referee might secretly roll for a character, or delay the roll until the last moment. 
 ## Saves
