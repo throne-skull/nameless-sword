@@ -63,9 +63,14 @@ Many dungeons doors are stuck and must be forced. They open for monsters, howeve
 #### Listening
 If you check quickly, 2-in-6 chance (Referee roll) of identifying any audible sound. The undead make no noise. If you spend one turn listening, success is guaranteed.
 #### Bashing doors
-You get a chance to surprise those behind. If the door is defensive, you need to succeed a Vigor test to bash it quickly (it only makes noise, calling an encounter check). If you fail, bashing the door takes 1 turn, makes a lot of noise (2 encounters checks, 1 for time and 1 for noise), and you lose any chance to surprise those behind the door. 
+You get a chance to surprise those behind. If the door is stuck, you need to succeed a Vigor test to bash it quickly (it only makes noise, calling an encounter check). If you fail, you cannot open the door. You can break it (e.g. with axes) with at least 1 turn of efforts and noise (2 encounters checks, 1 for time and 1 for noise), and you lose any chance to surprise those behind the door. 
+Usually, locked doors cannot be bashed, only broken or picked.  
 #### Lockpicking
-With a lockpick and a successful Finesse test, you open the door in 1 turn. A failure makes you lose 1 turn in vain and depletes your lockpick. Silently picking a lock gives you the advantage of surprise over any creatures in the room.
+1 turn per attempt. With a lockpick and a successful Finesse test, you open silentlty and gain the advantage of surprise over any creatures in the room. A failure jams the lock unless you sacrifice your lockpick. 
+Stuck doors cannot be picked.  
+### Locked chests
+* Force open the chest: risk triggering any traps and destroying the most fragile contents, or even sabotaging the contents of secret compartments (e.g. a vial of acid that breaks when the chest is forced open). 
+* Pick the lock: 1 turn per attempt. Success allows you to open the chest, deactivating any traps. A failure jams the lock, preventing more lockpicking attempts, unless you sacrifice your lockpick.
 
 ### Searching
 Each character searching for one turn has 2-in-6 chance to spot a trap, treasure or secret door (one success needed for each hidden element) in the room/hallway (or section of it, if the place is very large). While searching, a character is vulnerable and caught by surprise in case of encounter. 
