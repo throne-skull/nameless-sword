@@ -4,15 +4,15 @@
 @import "jekyll-theme-minimal";
 
 body {
-  background-color: #382b26;
+  background-color: #1d0f44;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#b8c2b9;
+  color:#f44e38;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#b8c2b9;
+  color:#f44e38;
   margin:0 0 20px;
 }
 
@@ -29,32 +29,32 @@ h1 {
 }
 
 h2 {
-  color:#b8c2b9;
+  color:#f44e38;
 }
 
 h3, h4, h5, h6 {
-  color:#b8c2b9;
+  color:#f44e38;
 }
 
 a {
-  color:#b8c2b9;
+  color:#f44e38;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#b8c2b9;
+  color:#f44e38;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#263d6e;
+  color:#f44e38;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#263d6e;
+  color:#f44e38;
 }
 
 .wrapper {
@@ -94,12 +94,12 @@ th, td {
 }
 
 dt {
-  color:#b8c2b9;
+  color:#f44e38;
   font-weight:700;
 }
 
 th {
-  color:#b8c2b9;
+  color:#f44e38;
 }
 
 img {
@@ -172,7 +172,7 @@ ul.downloads {
 }
 
 strong {
-  color:#b8c2b9;
+  color:#f44e38;
   font-weight:700;
 }
 
