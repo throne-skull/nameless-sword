@@ -74,7 +74,7 @@ You swim and climb at half speed. Rough terrain also halve your speed. If your a
 
 The Referee rolls attacks for the enemies, PCs for themselves and their allies.  
 
-Attacks are simultaneous unless one side:
+Wait until all units engaged in the melee have made their attacks before removing casualties. Attacks are simultaneous unless one side:
 * Charged this round
 * Attacks with Surprise
 * Attacks on the flank
